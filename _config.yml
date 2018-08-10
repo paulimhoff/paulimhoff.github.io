@@ -12,9 +12,6 @@ title_separator          : "-"
 name                     : &name "Lijun Sun"
 description              : &description "Assistant Professor"
 description              : &description "Civil Engineering | McGill University"
-description              : &description "Address: 817 Sherbrooke Street West"
-description              : &description "Macdonald Engineering Building 278C"
-description              : &description "Montreal, QC H3A 0C3, Canada"
 url                      : https://lijunsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lijunsun/lijunsun.github.io"
@@ -89,6 +86,10 @@ author:
     Assistant Professor <br>
     Civil Engineering <br>
     McGill University <br>
+    <br>
+    Address: 817 Sherbrooke Street West <br>
+    acdonald Engineering Building 278C <br>
+    Montreal, QC H3A 0C3, Canada <br>
   location         : "Montreal, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qi4IEtkAAAAJ"
