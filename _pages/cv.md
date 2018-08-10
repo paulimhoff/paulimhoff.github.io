@@ -8,12 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://smart.lab.mcgill.ca/sunlijun_cv.pdf)
+[CV in PDF](http://smart.lab.mcgill.ca/sunlijun_cv.pdf)
 
 Education
 ======
-* B.Eng. in Civil Engineering, Tsinghua University, 2011
-* Ph.D. in Civil Engineering (Transportation), National University of Singapore, 2015
+* B.Eng. in Civil Engineering, [Tsinghua University](http://www.civil.tsinghua.edu.cn/en/), 2011
+* Ph.D. in Civil Engineering (Transportation), [National University of Singapore](http://www.eng.nus.edu.sg/cee/), 2015
 
 Work experience
 ======
