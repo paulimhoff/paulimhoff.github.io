@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,51 +8,19 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](http://smart.lab.mcgill.ca/sunlijun_cv.pdf)
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Eng. in Civil Engineering, Tsinghua University, 2011
+* Ph.D. in Civil Engineering (Transportation), National University of Singapore, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2018.5-: Assistant Professor, [Department of Civil Engineering and Applied Mechanics](https://www.mcgill.ca/civil/), McGill University
+* 2017.8-2018.4: Visiting Professor, School of Engineering, Sun Yat-sen University
+* 2015.8-2017.7: Postdoctoral Associate, [MIT Media Mab](https://www.media.mit.edu/), Massachusetts Institute of Technology
+* 2014.12-2015.9: Senior Research Fellow, [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH Centre
+* 2015.2-2015.3: Visiting Researcher, Optimisation group, [National ICT Australia (Now Data61)](http://www.data61.csiro.au/)
+* 2014.2-2014.6: Visiting Student, [MIT Media Mab](https://www.media.mit.edu/), Massachusetts Institute of Technology
+* 2011.8-2015.1: PhD Researcher, [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH Centre
