@@ -24,7 +24,7 @@ Research Interests
 
 For Prospective Students
 ======
-* I am always looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill [uApply](https://www.mcgill.ca/uapply). Please use "Prospective PhD student [Your name]" as your email subject. [More info about Civil Engineering](https://www.mcgill.ca/civil/grad)
+* I am always looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply). Please use "Prospective PhD student [Your name]" as your email subject. [More info about Civil Engineering](https://www.mcgill.ca/civil/grad)
 
 
 Recent Papers
