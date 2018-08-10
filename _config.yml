@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Dr. Lijun Sun"
   avatar           : "sun.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : |
+    Assistant Professor, <br>
+    Civil Engineering | McGill University <br>
   location         : "Montreal, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qi4IEtkAAAAJ"

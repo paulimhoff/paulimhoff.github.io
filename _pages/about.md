@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Lijun Sun is an Assistant Professor in the Department of Civil Engineering and Applied Mechanics at McGill University. He obtained his PhD degree in Civil Engineering (Transportation) from National University of Singapore in 2015, and earned his Bachelor degree in Civil Engineering from Tsinghua University (Beijing, China) in 2011. During PhD, he worked at Mobility and Transport Planning module at the [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH center. Prior to joining McGill, he was a Postdoctoral Associate at [MIT Media Lab](https://www.media.mit.edu/), focusing on developing and applying crowdsourcing and data-driven approaches in the domain of civil systems and transportation. His current research centers on the area of urban computing and smart transportation, developing innovative methodologies and applications to address efficiency, resilience, and sustainability issues in urban transportation systems. In particular, he is interested in integrating advances in mobile sensing and machine learning into human mobility modeling, agent-based simulation, and intelligent transportation systems to explore how big data, artificial intelligence, and cyber-physical systems could benefit urban life and help build smart cities. His work has been featured in popular media outlets, including Wired, Citylab, Scientific American, and MIT Technology Review.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Urban computing & smart cities
+* Machine learning for mobility modeling
+* Intelligent transportation systems
+* Spatio-temporal traffic state modeling/predication
+* Infrastructure resilience
+* Data-driven urban/transportation systems modeling
+* Human mobility and travel behavior
+* Agent-based modeling and simulation
+* Public transportation operation & planning
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+For Prospective Students
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* I am always looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill Graduate](https://www.mcgill.ca/civil/grad). Please use "Prospective PhD student [Your name]" as your email subject.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Recent Papers
+======
+* Alabdulkareem, A., Frank, M.R., Sun, L., AlShebli, B., Hidalgo, C., Rahwan, I., 2018. [Unpacking the polarization of workplace skills](http://dx.doi.org/10.1126/sciadv.eaao6030). Science Advances 4(7), eaao6030.
+* Sun, L., Erath, A., Cai, M., 2018. [A hierarchical mixture modeling framework for population synthesis](https://doi.org/10.1016/j.trb.2018.06.002). Transportation Research Part B: Methodological 114, 199–212. 
+* Frank, M.R., Obradovich, N., Sun, L., Woon, W.L., LeVeck, B.L., Rahwan, I., 2018. [Detecting reciprocity at a global scale](http://dx.doi.org/10.1126/sciadv.aao5348). Science Advances 4(1), eaao5348.
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Selected Publications
+======
+* Sun, L., Yin, Y., 2017. [Discovering themes and trends in transportation research using topic modeling](http://dx.doi.org/10.1016/j.trc.2017.01.013). Transportation Research Part C: Emerging Technologies 77, 49–66.
+* Sun, L., Axhausen, K.W., 2016. [Understanding urban mobility patterns with a probabilistic tensor factorization framework](http://dx.doi.org/10.1016/j.trb.2016.06.011). Transportation Research Part B: Methodological 91, 511–524.
+* Sun, L., Lu, Y., Jin, J.G., Lee, D.-H., Axhausen, K.W., 2015. [An integrated Bayesian approach for passenger flow assignment in metro networks](http://dx.doi.org/10.1016/j.trc.2015.01.001). Transportation Research Part C: Emerging Technologies 52, 116–131.
+* Sun, L., Erath, A., 2015. [A Bayesian network approach for population synthesis](http://dx.doi.org/10.1016/j.trc.2015.10.010). Transportation Research Part C: Emerging Technologies 61, 49–62.
+* Sun, L., Jin, J.G., Lee, D.-H., Axhausen, K.W., Erath, A., 2014. [Demand-driven timetable design for metro services](http://dx.doi.org/10.1016/j.trc.2014.06.003). Transportation Research Part C: Emerging Technologies 46, 284–299. 
+* Sun, L., Axhausen, K.W., Lee, D.-H., Huang, X., 2013. [Understanding metropolitan patterns of daily encounters](http://dx.doi.org/10.1073/pnas.1306440110). Proceedings of the National Academy of Sciences of the United States of America 110, 13774–9.
