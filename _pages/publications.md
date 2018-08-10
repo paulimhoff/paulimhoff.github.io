@@ -14,8 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ)    
-[ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?)
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
 
 Journal Publications
 ======
@@ -61,13 +60,13 @@ global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http
 
 Conference Publications
 ======
-* Sun L, Chen X, He Z, Miranda-Moreno LF (under review) Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
+* Sun L, Chen X, He Z, Miranda-Moreno LF (under review) Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (under review) Characterizing day-to-day airport delay profiles with a network approach 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
+* Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (under review) Characterizing day-to-day airport delay profiles with a network approach. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (under review) A propagation index on airport delays 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
+* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (under review) A propagation index on airport delays. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Gao J, Sun L, Cai M (under review) Privacy vulnerability in anonymized automatic license plate recognition data. 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
+* Gao J, Sun L, Cai M (under review) Privacy vulnerability in anonymized automatic license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
 * Sun L, Jin JG (2015) Modeling temporal flow assignment in metro networks using smart card data. 18th IEEE International Conference on Intelligent Transportation Systems (Las Palmas de Gran Canaria, Spain). (doi:[10.1109/ITSC.2015.141](hhttp://dx.doi.org/10.1109/ITSC.2015.141))
 
