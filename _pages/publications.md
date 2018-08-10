@@ -65,7 +65,7 @@ Conference Publications
 
 * Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (under review) Characterizing day-to-day airport delay profiles with a network approach 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
 
-* Zhang M, Zhou X, Zhang Y, Sun L, DuW, Cao X (under review) A propagation index on airport delays 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
+* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (under review) A propagation index on airport delays 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
 
 * Gao J, Sun L, Cai M (under review) Privacy vulnerability in anonymized automatic license plate recognition data. 2019 Transportation Research Board (TRB) Annual Meeting (Washington, DC, USA).
 
