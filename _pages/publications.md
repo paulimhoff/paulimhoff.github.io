@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
+You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
 
 Journal Publications
 ======
@@ -31,7 +31,7 @@ global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http
 
 * Sun L, Yin Y (2017) Discovering themes and trends in transportation research using topic modeling. Transportation Research Part C: Emerging Technology 77:49-66. (doi:[10.1016/j.trc.2017.01.013](http://dx.doi.org/10.1016/j.trc.2017.01.013))
 
-* Sun L, Axhausen KW (2016) Understanding urban mobility patterns with a probabilistic tensor factorization framework. Transportation Research Part B: Methodological 91:511-524. (doi:[10.1016/j.trb.2016.06.011](http://dx.doi.org/10.1016/j.trb.2016.06.011))
+* Sun L, Axhausen KW (2016) Understanding urban mobility patterns with a probabilistic tensor factorization framework. Transportation Research Part B: Methodological 91:511-524. (doi:[10.1016/j.trb.2016.06.011](http://dx.doi.org/10.1016/j.trb.2016.06.011)) [[Code](https://github.com/lijunsun/probabilistic_tucker_transport)]
 
 * Tirachini A, Sun L, Erath A, Chakirov A (2016) Valuation of sitting and standing in metro trains using revealed preferences. Transport Policy 47:94-104. (doi:[10.1016/j.tranpol.2015.12.004](http://dx.doi.org/10.1016/j.tranpol.2015.12.004))
 
@@ -41,7 +41,7 @@ global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http
 
 * Long Y, Sun L, Tao S (2015) A review of urban studies based on transit smart card data. Urban Planning Forum 223:70-77. (in Chinese) (doi:[10.16361/j.upf.201503009](http://dx.doi.org/10.16361/j.upf.201503009))
 
-* Sun L, Lu Y, Jin JG, Lee D-H, AxhausenKW(2015) An integrated Bayesian approach for passenger flow assignment in metro networks. Transportation Research Part C: Emerging Technologies 52:116-131. (doi:[10.1016/j.trc.2015.01.001](http://dx.doi.org/10.1016/j.trc.2015.01.001))
+* Sun L, Lu Y, Jin JG, Lee D-H, AxhausenKW(2015) An integrated Bayesian approach for passenger flow assignment in metro networks. Transportation Research Part C: Emerging Technologies 52:116-131. (doi:[10.1016/j.trc.2015.01.001](http://dx.doi.org/10.1016/j.trc.2015.01.001)) [[Code](https://github.com/lijunsun/MetroAssignment)]
 
 * Sun L, Jin JG, Axhausen KW, Lee D-H, Cebrian M (2015) Quantifying long-term evolution of intraurban spatial interactions. Journal of theRoyal Society Interface 12:20141089. (doi:[10.1098/rsif.2014.1089](http://dx.doi.org/10.1098/rsif.2014.1089))
 

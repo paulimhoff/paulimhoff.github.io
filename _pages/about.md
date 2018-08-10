@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Lijun Sun is an Assistant Professor in the Department of Civil Engineering and Applied Mechanics at [McGill University](https://www.mcgill.ca/civil/lijun-sun). He obtained his PhD degree in Civil Engineering (Transportation) from [National University of Singapore](http://www.eng.nus.edu.sg/cee/) in 2015, and earned his Bachelor degree in Civil Engineering from [Tsinghua University](http://www.civil.tsinghua.edu.cn/en/) (Beijing, China) in 2011. During PhD, he worked at Mobility and Transport Planning module at the [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH center. Prior to joining McGill, he was a Postdoctoral Associate at [MIT Media Lab](https://www.media.mit.edu/). His current research centers on the area of urban computing and smart transportation, developing innovative methodologies and applications to address efficiency, resilience, and sustainability issues in urban transportation systems. In particular, he is interested in integrating advances in mobile sensing and machine learning into human mobility modeling, agent-based simulation, and intelligent transportation systems. His work has been featured in popular media outlets, including Wired, Citylab, Scientific American, and MIT Technology Review.
+I am an Assistant Professor in the Department of Civil Engineering at [McGill University](https://www.mcgill.ca/civil/lijun-sun). I received my PhD degree in Civil Engineering (Transportation) from [National University of Singapore](http://www.eng.nus.edu.sg/cee/), and earned a Bachelor degree in Civil Engineering from [Tsinghua University](http://www.civil.tsinghua.edu.cn/en/). During my PhD, I worked at Mobility and Transport Planning module at the [Future Cities Laboratory](http://www.fcl.ethz.ch/), Singapore-ETH center. Prior to joining McGill, I was a Postdoctoral Associate at [MIT Media Lab](https://www.media.mit.edu/). 
+
+My current research centers on the area of smart transportation and urban computing, developing innovative methodologies and applications to address efficiency, resilience, and sustainability issues in urban transportation systems. I am particularly interested in integrating advances in machine learning into human mobility modeling, agent-based simulation, and intelligent transportation systems. My previous work has been featured in some popular media outlets, including Wired, Citylab, Scientific American, and MIT Technology Review.
+
 
 Research Interests
 ======
@@ -22,10 +25,12 @@ Research Interests
 * Agent-based modeling and simulation
 * Public transportation operation & planning
 
+
 For Prospective Students
 ======
-* I am always looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject.
+* I am looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject.
 * See [more info about Civil Engineering @ McGill University](https://www.mcgill.ca/civil/grad).
+
 
 
 Recent Papers
@@ -33,6 +38,7 @@ Recent Papers
 * Alabdulkareem, A., Frank, M.R., Sun, L., AlShebli, B., Hidalgo, C., Rahwan, I., 2018. [Unpacking the polarization of workplace skills](http://dx.doi.org/10.1126/sciadv.eaao6030). Science Advances 4(7), eaao6030.
 * Sun, L., Erath, A., Cai, M., 2018. [A hierarchical mixture modeling framework for population synthesis](https://doi.org/10.1016/j.trb.2018.06.002). Transportation Research Part B: Methodological 114, 199–212. 
 * Frank, M.R., Obradovich, N., Sun, L., Woon, W.L., LeVeck, B.L., Rahwan, I., 2018. [Detecting reciprocity at a global scale](http://dx.doi.org/10.1126/sciadv.aao5348). Science Advances 4(1), eaao5348.
+
 
 
 Selected Publications
