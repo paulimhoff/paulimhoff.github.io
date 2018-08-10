@@ -83,12 +83,13 @@ author:
   name             : "Dr. Lijun Sun"
   avatar           : "sun.jpg"
   bio              : |
-    Assistant Professor, <br>
-    Civil Engineering | McGill University <br>
+    Assistant Professor <br>
+    Civil Engineering <br>
+    McGill University <br>
   location         : "Montreal, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qi4IEtkAAAAJ"
-  email            :
+  email            : "lijun.sun[at]mcgill.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,15 +102,15 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/lijun-sun-8101a716/"
   orcid            : "https://orcid.org/0000-0001-9488-0712"
-  pinterest        :
+  pinterest        : 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "lijunsun0"
-  vine             :
+  vine             : 
   weibo            :
   xing             :
   youtube          :
