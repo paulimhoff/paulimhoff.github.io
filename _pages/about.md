@@ -13,6 +13,15 @@ I am an Assistant Professor in the Department of Civil Engineering at [McGill Un
 My current research centers on the area of smart transportation and urban computing, developing innovative methodologies and applications to address efficiency, resilience, and sustainability issues in urban transportation systems. I am particularly interested in integrating advances in machine learning into human mobility modeling, agent-based simulation, and intelligent transportation systems. My previous work has been featured in some popular media outlets, including Wired, Citylab, Scientific American, and MIT Technology Review.
 
 
+
+For Prospective Students/Postdocs
+======
+* I am looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject.
+* See [more info about Civil Engineering @ McGill University](https://www.mcgill.ca/civil/grad).
+* If you have a good record in mathematics/machine learning, you are encouraged to apply for the [IVADO graduate student scholarship](https://ivado.ca/en/excellence-scholarships/).
+* Postdocs or final year PhD students with strong mathematics/machine learning background (and also application in smart transportation, e.g., spatiotemporal prediction, generative model for urban activity) are __strongly encouraged__ to apply for the [IVADO postdoc scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). Very competitive package!
+
+
 Research Interests
 ======
 * Urban computing & smart cities
@@ -24,12 +33,6 @@ Research Interests
 * Human mobility and travel behavior
 * Agent-based modeling and simulation
 * Public transportation operation & planning
-
-
-For Prospective Students
-======
-* I am looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject.
-* See [more info about Civil Engineering @ McGill University](https://www.mcgill.ca/civil/grad).
 
 
 
