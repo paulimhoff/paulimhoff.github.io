@@ -8,17 +8,14 @@ author_profile: true
 Current students @ McGill University.
 
 
-PhD Students
-=======
+## PhD Students
 * Xudong Wang (2018.9-)
 * Annie Chang (2018.9-)
 
 
-Master Students
-=======
+## Master Students
 * Ce Zhang (2018.9-)
 
 
-Visiting Students
-=======
+## Visiting Students
 * Kangli Zhu, Beijing Jiaotong University (2018.10-)
