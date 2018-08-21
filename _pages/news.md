@@ -4,4 +4,4 @@ permalink: /news/
 author_profile: true
 ---
 
-* News A
+* Xudong Wang joined as the first group member. Welcome Xudong!
