@@ -4,6 +4,22 @@ permalink: /links/
 author_profile: true
 ---
 
+
+Machine learning basics
+========
+* [AI Conference deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
+* [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+* [Deep Learning](http://www.deeplearningbook.org/)
+* [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
+* [Gaussian Process for Machine Learning](http://www.gaussianprocess.org/gpml/)
+* [All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/)
+* [Foundations of Machine Learning](https://github.com/paullintilhac/Machine-Learning/blob/master/Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri%2C%20A.%20Rostamizadeh%2C%20A.%20Talwalkar.pdf)
+* [Partially Observed Markov Decision Processes](http://www.cambridge.org/gb/academic/subjects/engineering/communications-and-signal-processing/partially-observed-markov-decision-processes-filtering-controlled-sensing?format=HB)
+* [Mike Jordan's Reading List](https://news.ycombinator.com/item?id=1055389)
+
+
 Software
 ========
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
@@ -40,6 +56,9 @@ Research groups
 * [Yu Zheng](https://www.microsoft.com/en-us/research/project/urban-computing/)
 * [Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/)
 * [Qibin Zhao](http://www.bsp.brain.riken.jp/~qibin/homepage/Home.html)
+* [Jing Gao](https://cse.buffalo.edu/~jing/)
+* [Mingyuan Zhou](https://mingyuanzhou.github.io/)
+
 
 
 
@@ -55,21 +74,6 @@ Writing & Latex
 * [ITLS Transportation journal ranking](http://sydney.edu.au/business/itls/research/journal_rankings)
 * [The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)
 * [excel2latex](https://ctan.org/tex-archive/support/excel2latex?lang=en)
-
-
-Machine learning basics
-========
-* [AI Conference deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
-* [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
-* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
-* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-* [Deep Learning](http://www.deeplearningbook.org/)
-* [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
-* [Gaussian Process for Machine Learning](http://www.gaussianprocess.org/gpml/)
-* [All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/)
-* [Foundations of Machine Learning](https://github.com/paullintilhac/Machine-Learning/blob/master/Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri%2C%20A.%20Rostamizadeh%2C%20A.%20Talwalkar.pdf)
-* [Partially Observed Markov Decision Processes](http://www.cambridge.org/gb/academic/subjects/engineering/communications-and-signal-processing/partially-observed-markov-decision-processes-filtering-controlled-sensing?format=HB)
-* [Mike Jordan's Reading List](https://news.ycombinator.com/item?id=1055389)
 
 
 Jobs
