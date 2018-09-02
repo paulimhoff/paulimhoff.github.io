@@ -18,6 +18,7 @@ For Prospective Students/Postdocs
 ======
 * I am looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject.
 * See [more info about Civil Engineering @ McGill University](https://www.mcgill.ca/civil/grad).
+* Ben Barres' advice on [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005).
 * If you have a good record in mathematics/machine learning, you are encouraged to apply for the [IVADO graduate student scholarship](https://ivado.ca/en/excellence-scholarships/).
 * Postdocs or final year PhD students with strong mathematics/machine learning background (and also application in smart transportation, e.g., spatiotemporal prediction, generative model for urban activity) are __strongly encouraged__ to apply for the [IVADO postdoc scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). Very competitive package!
 * Other scholarship opportunities:
