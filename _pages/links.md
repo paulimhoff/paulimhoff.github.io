@@ -29,6 +29,8 @@ Machine learning basics
 * [Colah's Blog](https://colah.github.io/)
 * [Montreal AI 101](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
 * [McGill RLLAB courses](http://rl.cs.mcgill.ca/courses.html)
+* [MILA courses](https://mila.quebec/en/cours/)
+* [MILA events](https://mila.quebec/en/public_events/)
 
 
 Software
