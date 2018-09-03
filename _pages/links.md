@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 
+Research
+========
+* [De-Mystifying Good Research and Good Papers](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
+* [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+* [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005)
+* [The Ph.D. Grind](http://pgbovine.net/PhD-memoir.htm)
+
+
 Machine learning basics
 ========
 * [AI Conference deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
@@ -18,6 +26,9 @@ Machine learning basics
 * [Foundations of Machine Learning](https://github.com/paullintilhac/Machine-Learning/blob/master/Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri%2C%20A.%20Rostamizadeh%2C%20A.%20Talwalkar.pdf)
 * [Partially Observed Markov Decision Processes](http://www.cambridge.org/gb/academic/subjects/engineering/communications-and-signal-processing/partially-observed-markov-decision-processes-filtering-controlled-sensing?format=HB)
 * [Mike Jordan's Reading List](https://news.ycombinator.com/item?id=1055389)
+* [Colah's Blog](https://colah.github.io/)
+* [Montreal AI 101](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
+* [McGill RLLAB courses](http://rl.cs.mcgill.ca/courses.html)
 
 
 Software
@@ -26,6 +37,8 @@ Software
 * [Linux screen](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/)
 * [Lightspeed matlab toolbox](https://github.com/tminka/lightspeed)
 * [igraph](http://igraph.org/)
+* [Anaconda](https://anaconda.org/)
+* [julia](https://julialang.org/learning/)
 
 
 Online courses
@@ -36,6 +49,7 @@ Online courses
 * [DLSS](http://videolectures.net/deeplearning2015_montreal/)
 * [Deep Learning](http://deeplearning.net/reading-list/tutorials/)
 * [Machine Learning for Time Series](http://pkuiss.wiiyun.com/userfiles/course/201803020824153810.pdf)
+* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 
 Research groups
@@ -58,8 +72,7 @@ Research groups
 * [Qibin Zhao](http://www.bsp.brain.riken.jp/~qibin/homepage/Home.html)
 * [Jing Gao](https://cse.buffalo.edu/~jing/)
 * [Mingyuan Zhou](https://mingyuanzhou.github.io/)
-
-
+* [Daniele Quercia](http://researchswinger.org/index.html)
 
 
 Writing & Latex
@@ -78,8 +91,6 @@ Writing & Latex
 
 Jobs
 ========
-* [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005)
-* [The Ph.D. Grind](http://pgbovine.net/PhD-memoir.htm)
 * [The professor is in](http://theprofessorisin.com/)
 * [Documents for job search](https://postdocs.cornell.edu/documents-job-search)
 * [Do's and don'ts at faculty job interviews](https://sv-postdoc.epfl.ch/blog/2013/career1)
