@@ -4,7 +4,6 @@ permalink: /links/
 author_profile: true
 ---
 
-
 Research
 ========
 * [De-Mystifying Good Research and Good Papers](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
@@ -26,6 +25,7 @@ Machine learning basics
 * [Foundations of Machine Learning](https://github.com/paullintilhac/Machine-Learning/blob/master/Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri%2C%20A.%20Rostamizadeh%2C%20A.%20Talwalkar.pdf)
 * [Partially Observed Markov Decision Processes](http://www.cambridge.org/gb/academic/subjects/engineering/communications-and-signal-processing/partially-observed-markov-decision-processes-filtering-controlled-sensing?format=HB)
 * [Mike Jordan's Reading List](https://news.ycombinator.com/item?id=1055389)
+* [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772)
 * [Colah's Blog](https://colah.github.io/)
 * [Montreal AI 101](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
 * [McGill RLLAB courses](http://rl.cs.mcgill.ca/courses.html)
@@ -47,6 +47,8 @@ Online courses
 ========
 * [Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 * [Probabilistic Graphical Models](http://people.eecs.berkeley.edu/~jordan/prelims/)
+* [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
+* [NLP with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [MLSS](https://www.youtube.com/watch?v=XLHB-Aktxw0&list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 * [DLSS](http://videolectures.net/deeplearning2015_montreal/)
 * [Deep Learning](http://deeplearning.net/reading-list/tutorials/)
@@ -82,6 +84,8 @@ Writing & Latex
 * [How to write a great research paper (video)](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 * [How to write a great research paper (slide)](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)
 * [Mathematical Writing (Knuth)](http://tex.loria.fr/typographie/mathwriting.pdf)
+* [Writing ariticles for scientific journals](https://lijunsun.github.io/files/Writing_articles_for_scientific_journals.pdf)
+* [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
 * [overleaf](https://www.overleaf.com/)
 * [linggle](http://linggle.com/)
 * [netspeak](http://www.netspeak.org/)
