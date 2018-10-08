@@ -12,9 +12,6 @@ I am an Assistant Professor in the Department of Civil Engineering at [McGill Un
 
 My current research centers on the area of smart transportation and urban computing, developing innovative methodologies and applications to address efficiency, resilience, and sustainability issues in urban transportation systems. I am particularly interested in integrating advances in machine learning into human mobility modeling, agent-based simulation, and intelligent transportation systems. My previous work has been featured in some popular media outlets, including Wired, Citylab, Scientific American, and MIT Technology Review.
 
-News
-=====
-I am organizing a Special Issue in [Transportation Research Part C](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies/call-for-papers/emerging-methods-for-data-driven-urban-transportation) on Emerging Methodologies in Data-driven Urban Transportation and Mobility Modeling: Machine Learning and Complexity Approaches. Your contribution is more than welcome and please submit your work to us! [CFP in PDF](https://lijunsun.github.io/files/TRC_CFP.pdf).
 
 
 For Prospective Students/Postdocs
