@@ -60,13 +60,13 @@ global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http
 
 Conference Publications
 ======
-* Sun L, Chen X, He Z, Miranda-Moreno LF (under review) Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Sun L, Chen X, He Z, Miranda-Moreno LF (2019) Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (under review) Characterizing day-to-day airport delay profiles with a network approach. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (2019) Characterizing day-to-day airport delay profiles with a network approach. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (under review) A propagation index on airport delays. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (2019) A propagation index on airport delays. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Gao J, Sun L, Cai M (under review) Privacy vulnerability in anonymized automatic license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Gao J, Sun L, Cai M (2019) Measuring privacy vulnerability of individual mobility traces: a case study on license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
 * Sun L, Jin JG (2015) Modeling temporal flow assignment in metro networks using smart card data. 18th IEEE International Conference on Intelligent Transportation Systems (Las Palmas de Gran Canaria, Spain). (doi:[10.1109/ITSC.2015.141](hhttp://dx.doi.org/10.1109/ITSC.2015.141))
 

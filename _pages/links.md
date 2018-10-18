@@ -58,6 +58,7 @@ Online courses
 
 Research groups
 ========
+* [Uber Visualization](http://philogb.github.io/)
 * [Yan Liu](http://www-bcf.usc.edu/~liu32/)
 * [Rose Yu](http://roseyu.com)
 * [Jessie Li](https://faculty.ist.psu.edu/jessieli/Site/index.html)
@@ -77,6 +78,7 @@ Research groups
 * [Jing Gao](https://cse.buffalo.edu/~jing/)
 * [Mingyuan Zhou](https://mingyuanzhou.github.io/)
 * [Daniele Quercia](http://researchswinger.org/index.html)
+
 
 
 Writing & Latex
