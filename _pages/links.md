@@ -20,6 +20,7 @@ Machine learning basics
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 * [Deep Learning](http://www.deeplearningbook.org/)
 * [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
+* [Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html#id99)
 * [Gaussian Process for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/)
 * [Foundations of Machine Learning](https://github.com/paullintilhac/Machine-Learning/blob/master/Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri%2C%20A.%20Rostamizadeh%2C%20A.%20Talwalkar.pdf)
