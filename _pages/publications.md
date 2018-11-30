@@ -18,7 +18,10 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 
 Journal Publications
 ======
-* Alabdulkareem A, Frank MR, Sun L, AlShebli B, Hidalgo C & Rahwan I (2018) Unpacking the polarization of workplace skills. Science Advances 4(7):eaao6030. (doi:[10.1126/sciadv.aao6030](http://dx.doi.org/10.1126/sciadv.aao6030))
+
+* Chen X, He Z, Sun L (2018) A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. Transportation Research Part C: Emerging Technologies 98:73-84. (doi:[10.1016/j.trc.2018.11.003](http://dx.doi.org/10.1016/j.trc.2018.11.003))
+
+* Alabdulkareem A, Frank MR, Sun L, AlShebli B, Hidalgo C, Rahwan I (2018) Unpacking the polarization of workplace skills. Science Advances 4(7):eaao6030. (doi:[10.1126/sciadv.aao6030](http://dx.doi.org/10.1126/sciadv.aao6030))
 
 * Sun L, Erath A, Cai M (2018) A hierarchical mixture modeling framework for population synthesis. Transportation Research Part B: Methodological 114:199-212. (doi:[10.1016/j.trb.2018.06.002](https://doi.org/10.1016/j.trb.2018.06.002)) [[Code](https://github.com/lijunsun/population_synthesis_hierarchical)]
 

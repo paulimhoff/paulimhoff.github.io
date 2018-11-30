@@ -55,6 +55,7 @@ Online courses
 * [Deep Learning](http://deeplearning.net/reading-list/tutorials/)
 * [Machine Learning for Time Series](http://pkuiss.wiiyun.com/userfiles/course/201803020824153810.pdf)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&fbclid=IwAR3RGagZcXCJ0wiPVtfmYLSXGB6SQ9NVnQFKNGVlb98RCTbP84kTvzN2KsE)
 
 
 Research groups
