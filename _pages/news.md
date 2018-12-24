@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* Dr. Sun is invited as Fellow of the Second [Chan Wui & Yunyin Rising Star Workshop](https://commons.ualr.edu/chanrsworkshop/) to be held in Bellagio, Italy.
 
 * I am co-organizing research theme on Public Transport in WSTLUR 2020.  
 
