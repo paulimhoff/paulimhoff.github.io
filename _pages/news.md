@@ -4,18 +4,22 @@ permalink: /news/
 author_profile: true
 ---
 
-* Zhanhong Cheng and Zhenyuan Ma joined our research group to start their research in Winter 2019.
+* 12/2018: Zhanhong Cheng (PhD) and Zhenyuan Ma (MS) joined our research group to start their research in Winter 2019.
 
-* Dr. Sun is invited as a Fellow of the Second [Chan Wui & Yunyin Rising Star Workshop](https://commons.ualr.edu/chanrsworkshop/) to be held in Bellagio, Italy.
+* 12/2018: Dr. Sun is invited as a Fellow of the Second [Chan Wui & Yunyin Rising Star Workshop](https://commons.ualr.edu/chanrsworkshop/) to be held in Bellagio, Italy.
 
-* Kangli Zhu joined our group as a visiting PhD student from Beijing Jiao Tong University.
+* 12/2018: Kangli Zhu joined our group as a visiting PhD student from Beijing Jiao Tong University.
 
-* I am co-organizing research theme on Public Transport in WSTLUR 2020.  
+* 12/2018: Dr. Sun gave presentations on Bayesian temporal facotorization models at Shanghai Jiao Tong Univeristy, Tsinghua University, Beihang University, Beijing Jiao Tong University, and Beijing Institute of Technology.  
 
-* I am looking for Postdocs. Postdocs or final year PhD students with strong mathematics/machine learning background (and also application in smart transportation, e.g., spatiotemporal prediction, generative model for urban activity) are __strongly encouraged__ to apply for the [IVADO postdoc scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). Very competitive package!
+* 11/2018: Dr. Sun becomes a member of [CIRRELT](https://www.cirrelt.ca/) officially.
 
-* I am organizing a Special Issue in [Transportation Research Part C](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies/call-for-papers/emerging-methods-for-data-driven-urban-transportation) on Emerging Methodologies in Data-driven Urban Transportation and Mobility Modeling: Machine Learning and Complexity Approaches. Your contribution is more than welcome and please submit your work to us! [CFP in PDF](https://lijunsun.github.io/files/TRC_CFP.pdf).
+* 10/2018: I am co-organizing research theme on Public Transport in WSTLUR 2020.  
 
-* Xudong Wang joined as the first group member. Welcome Xudong!
+* 10/2018: I am looking for Postdocs. Postdocs or final year PhD students with strong mathematics/machine learning background (and also application in smart transportation, e.g., spatiotemporal prediction, generative model for urban activity) are __strongly encouraged__ to apply for the [IVADO postdoc scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). Very competitive package!
 
-* I am co-organizing IEEE ITSC 4th International Workshop on Intelligent Public Transport
+* 10/2018: I am organizing a Special Issue in [Transportation Research Part C](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies/call-for-papers/emerging-methods-for-data-driven-urban-transportation) on Emerging Methodologies in Data-driven Urban Transportation and Mobility Modeling: Machine Learning and Complexity Approaches. Your contribution is more than welcome and please submit your work to us! [CFP in PDF](https://lijunsun.github.io/files/TRC_CFP.pdf).
+
+* 09/2018: Xudong Wang joined as the first group member. Welcome Xudong!
+
+* 05/2018: I am co-organizing IEEE ITSC 4th International Workshop on Intelligent Public Transport
