@@ -4,7 +4,11 @@ permalink: /news/
 author_profile: true
 ---
 
-* Dr. Sun is invited as Fellow of the Second [Chan Wui & Yunyin Rising Star Workshop](https://commons.ualr.edu/chanrsworkshop/) to be held in Bellagio, Italy.
+* Zhanhong Cheng and Zhenyuan Ma joined our research group to start their research in Winter 2019.
+
+* Dr. Sun is invited as a Fellow of the Second [Chan Wui & Yunyin Rising Star Workshop](https://commons.ualr.edu/chanrsworkshop/) to be held in Bellagio, Italy.
+
+* Kangli Zhu joined our group as a visiting PhD student from Beijing Jiao Tong University.
 
 * I am co-organizing research theme on Public Transport in WSTLUR 2020.  
 
