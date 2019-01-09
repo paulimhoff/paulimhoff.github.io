@@ -53,8 +53,12 @@ Online courses
 * [MLSS](https://www.youtube.com/watch?v=XLHB-Aktxw0&list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 * [DLSS](http://videolectures.net/deeplearning2015_montreal/)
 * [Deep Learning](http://deeplearning.net/reading-list/tutorials/)
+* [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/)
+* [fast.ai](https://www.fast.ai)
+* [cs231n.stanford.edu](http://cs231n.stanford.edu/)
 * [Machine Learning for Time Series](http://pkuiss.wiiyun.com/userfiles/course/201803020824153810.pdf)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [cs294@berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&fbclid=IwAR3RGagZcXCJ0wiPVtfmYLSXGB6SQ9NVnQFKNGVlb98RCTbP84kTvzN2KsE)
 
 

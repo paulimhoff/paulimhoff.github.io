@@ -4,7 +4,9 @@ permalink: /news/
 author_profile: true
 ---
 
-* 12/2018: Zhanhong Cheng (PhD) and Zhenyuan Ma (MS) joined our research group to start their research in Winter 2019.
+* 1/2019: Dr. Sun will present two papers at Transportation Annual Meeting in Washington, DC. 
+
+* 12/2018: Zhanhong Cheng (PhD), Leila Hawa (MS), and Zhenyuan Ma (MS) joined our research group to start their research in Winter 2019.
 
 * 12/2018: Dr. Sun is invited as a Fellow of the Second [Chan Wui & Yunyin Rising Star Workshop](https://commons.ualr.edu/chanrsworkshop/) to be held in Bellagio, Italy.
 
@@ -22,4 +24,4 @@ author_profile: true
 
 * 09/2018: Xudong Wang joined as the first group member. Welcome Xudong!
 
-* 05/2018: I am co-organizing IEEE ITSC 4th International Workshop on Intelligent Public Transport
+* 05/2018: I am co-organizing IEEE ITSC 4th International Workshop on Intelligent Public Transport.

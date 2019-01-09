@@ -19,7 +19,7 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 Journal Publications
 ======
 
-* Chen X, He Z, Sun L (2018) A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. Transportation Research Part C: Emerging Technologies 98:73-84. (doi:[10.1016/j.trc.2018.11.003](http://dx.doi.org/10.1016/j.trc.2018.11.003))
+* Chen X, He Z, Sun L (2019) A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. Transportation Research Part C: Emerging Technologies 98:73-84. (doi:[10.1016/j.trc.2018.11.003](http://dx.doi.org/10.1016/j.trc.2018.11.003))
 
 * Alabdulkareem A, Frank MR, Sun L, AlShebli B, Hidalgo C, Rahwan I (2018) Unpacking the polarization of workplace skills. Science Advances 4(7):eaao6030. (doi:[10.1126/sciadv.aao6030](http://dx.doi.org/10.1126/sciadv.aao6030))
 
@@ -44,13 +44,13 @@ global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http
 
 * Long Y, Sun L, Tao S (2015) A review of urban studies based on transit smart card data. Urban Planning Forum 223:70-77. (in Chinese) (doi:[10.16361/j.upf.201503009](http://dx.doi.org/10.16361/j.upf.201503009))
 
-* Sun L, Lu Y, Jin JG, Lee D-H, AxhausenKW(2015) An integrated Bayesian approach for passenger flow assignment in metro networks. Transportation Research Part C: Emerging Technologies 52:116-131. (doi:[10.1016/j.trc.2015.01.001](http://dx.doi.org/10.1016/j.trc.2015.01.001)) [[Code](https://github.com/lijunsun/MetroAssignment)]
+* Sun L, Lu Y, Jin JG, Lee D-H, AxhausenKW (2015) An integrated Bayesian approach for passenger flow assignment in metro networks. Transportation Research Part C: Emerging Technologies 52:116-131. (doi:[10.1016/j.trc.2015.01.001](http://dx.doi.org/10.1016/j.trc.2015.01.001)) [[Code](https://github.com/lijunsun/MetroAssignment)]
 
 * Sun L, Jin JG, Axhausen KW, Lee D-H, Cebrian M (2015) Quantifying long-term evolution of intraurban spatial interactions. Journal of theRoyal Society Interface 12:20141089. (doi:[10.1098/rsif.2014.1089](http://dx.doi.org/10.1098/rsif.2014.1089))
 
 * Sun L, Tirachini A, Axhausen KW, Erath A, Lee D-H (2014) Models of bus boarding and alighting dynamics. Transportation Research Part A: Policy and Practice 69:447-460. (doi:[10.1016/j.tra.2014.09.007](http://dx.doi.org/10.1016/j.tra.2014.09.007))
 
-* Sun L, AxhausenKW, Lee D-H, CebrianM(2014) Efficient detection of contagious outbreaks in massive metropolitan encounter networks. Scientific Reports 4:5099. (doi:[10.1038/srep05099](http://dx.doi.org/10.1038/srep05099))
+* Sun L, AxhausenKW, Lee D-H, Cebrian M (2014) Efficient detection of contagious outbreaks in massive metropolitan encounter networks. Scientific Reports 4:5099. (doi:[10.1038/srep05099](http://dx.doi.org/10.1038/srep05099))
 
 * Sun L, Jin JG, Lee D-H, Axhausen KW, Erath A (2014) Demand-driven timetable design for metro services. Transportation Research Part C: Emerging Technologies 46:284-299. (doi:[10.1016/j.trc.2014.06.003](http://dx.doi.org/10.1016/j.trc.2014.06.003))
 

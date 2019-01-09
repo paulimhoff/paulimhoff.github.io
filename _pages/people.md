@@ -17,6 +17,7 @@ Current students @ McGill University.
 
 ## Master Students
 * Ce Zhang (2018.9-)
+* Leila Hawa (2019.1-)
 * Zhenyuan Ma (2019.1-)
 
 
