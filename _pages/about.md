@@ -16,7 +16,7 @@ My current research centers on the area of smart transportation and urban comput
 
 For Prospective Students/Postdocs
 ======
-* I am looking for motivated Postdoc Associate in the general area of machine learning for transportation. Please send me (lijun.sun@mcgill.ca) an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement and transcripts.
+* I am looking for motivated Postdoc Associates in the general area of machine learning for transportation. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement and transcripts.
 
 * I am looking for PhD, master, visitors, and interns who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject.
 * See [more info about Civil Engineering @ McGill University](https://www.mcgill.ca/civil/grad).
