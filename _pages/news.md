@@ -3,6 +3,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 4/2019: Two PhD students, Mengying Lei from Beihang University and Jiawei Wang from Sun Yat-sen University, will join the Smart Transportation group in 2019 Fall.
+
 * 2/2019: I am looking for motivated Postdoc Associate starting ASAP in the general area of machine learning for transportation. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement and transcripts.
 
 * 1/2019: Dr. Sun will present two papers at Transportation Annual Meeting in Washington, DC. 
