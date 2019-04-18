@@ -4,6 +4,11 @@ permalink: /news/
 author_profile: true
 ======
 
+* 4/2019: We have two PhD positions opening for 2020 Winter and 2020 Fall. Please contact Dr. Sun if you are interested. 
+
+* 4/2019: Mengying Lei (PhD, graudated from Beihang University), Jiawei Wang (PhD, graduated from Sun Yat-sen University), and Dingyi Zhuang (MS, graduated from Shanghai Jiao Tong University) will join our research group in Fall 2019. 
+
+* 3/2019: Xudong Wang and Zhenyuan Ma are selected to attend [DLRL Summer School](https://www.cifar.ca/events/deep-learning-and-reinforcement-learning-summer-school) in Alberta.
 
 * 2/2019: I am looking for motivated Postdoc Associate starting ASAP in the general area of machine learning for transportation. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement and transcripts.
 
