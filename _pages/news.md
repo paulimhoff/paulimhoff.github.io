@@ -2,6 +2,9 @@
 title: "News"
 permalink: /news/
 author_profile: true
+---
+
+
 ======
 
 * 4/2019: We have two PhD positions opening for 2020 Winter and 2020 Fall. Please contact Dr. Sun if you are interested. 
