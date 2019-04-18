@@ -5,8 +5,6 @@ author_profile: true
 ---
 
 
-======
-
 * 4/2019: We have two PhD positions opening for 2020 Winter and 2020 Fall. Please contact Dr. Sun if you are interested. 
 
 * 4/2019: Mengying Lei (PhD, graudated from Beihang University), Jiawei Wang (PhD, graduated from Sun Yat-sen University), and Dingyi Zhuang (MS, graduated from Shanghai Jiao Tong University) will join our research group in Fall 2019. 
