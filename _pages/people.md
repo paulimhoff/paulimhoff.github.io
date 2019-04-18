@@ -12,6 +12,8 @@ Current students @ McGill University.
 * Xudong Wang (2018.9-)
 * Annie Chang (2018.9-)
 * Zhanhong Cheng (2019.1-)
+* Mengying Lei (2019.9-)
+* Jiawei Wang (2019.9-)
 
 
 
@@ -19,6 +21,7 @@ Current students @ McGill University.
 * Ce Zhang (2018.9-)
 * Leila Hawa (2019.1-)
 * Zhenyuan Ma (2019.1-)
+* Dingyi Zhuang (2019.9-)
 
 
 ## Visiting Students
