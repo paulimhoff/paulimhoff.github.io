@@ -7,13 +7,14 @@ author_profile: true
 
 Current students @ McGill University.
 
-
 ## PhD Students
 * Xudong Wang (2018.9-)
 * Annie Chang (2018.9-)
 * Zhanhong Cheng (2019.1-)
 * Mengying Lei (2019.9-)
 * Jiawei Wang (2019.9-)
+* Jingbo Tian (2019.9-)
+* Fuqiang Liu (2019.9-)
 
 
 

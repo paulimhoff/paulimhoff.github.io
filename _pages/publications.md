@@ -18,6 +18,9 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 
 Journal Publications
 ======
+* Gao J, Sun L, Cai M (2019) Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. Transportation Research Part C: Emerging Technologies 104:78-94. (doi:[10.1016/j.trc.2019.04.022](https://doi.org/10.1016/j.trc.2019.04.022))
+
+* Zhang M, Zhou X, Zhang Y, Sun L, Dun M, Du W, Cao X (2019) Propagation index on airport delays. Transportation Research Record XX:1-8. (doi:[10.1177/0361198119844240 ](https://doi.org/10.1177/0361198119844240))
 
 * Chen X, He Z, Sun L (2019) A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. Transportation Research Part C: Emerging Technologies 98:73-84. (doi:[10.1016/j.trc.2018.11.003](http://dx.doi.org/10.1016/j.trc.2018.11.003))
 
@@ -25,8 +28,7 @@ Journal Publications
 
 * Sun L, Erath A, Cai M (2018) A hierarchical mixture modeling framework for population synthesis. Transportation Research Part B: Methodological 114:199-212. (doi:[10.1016/j.trb.2018.06.002](https://doi.org/10.1016/j.trb.2018.06.002)) [[Code](https://github.com/lijunsun/population_synthesis_hierarchical)]
 
-* Frank MR, Obradovich N, Sun L, Woon WL, LeVeck BL, Rahwan I (2018) Detecting reciprocity at
-global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http://dx.doi.org/10.1126/sciadv.aao5348))
+* Frank MR, Obradovich N, Sun L, Woon WL, LeVeck BL, Rahwan I (2018) Detecting reciprocity at global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http://dx.doi.org/10.1126/sciadv.aao5348))
 
 * Frank MR, Sun L, Cebrian M, Youn HJ, Rahwan I (2018) Small cities face greater impact from automation. Journal of the Royal Society Interface 15 (139):20170946. (doi:[10.1098/rsif.2017.0946](http://dx.doi.org/10.1098/rsif.2017.0946))
 
