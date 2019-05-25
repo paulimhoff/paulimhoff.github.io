@@ -18,6 +18,9 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 
 Journal Publications
 ======
+
+* Wang J, Kong X, Xia F, Sun L (2019) Urban human mobility: data-driven modeling and prediction. ACM SIGKDD Explorations 21(1): 1-19. (doi:[10.1145/3331651.3331653](https://doi.org/10.1145/3331651.3331653))
+
 * Gao J, Sun L, Cai M (2019) Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. Transportation Research Part C: Emerging Technologies 104:78-94. (doi:[10.1016/j.trc.2019.04.022](https://doi.org/10.1016/j.trc.2019.04.022))
 
 * Zhang M, Zhou X, Zhang Y, Sun L, Dun M, Du W, Cao X (2019) Propagation index on airport delays. Transportation Research Record XX:1-8. (doi:[10.1177/0361198119844240 ](https://doi.org/10.1177/0361198119844240))
@@ -73,7 +76,7 @@ Conference Publications
 
 * Gao J, Sun L, Cai M (2019) Measuring privacy vulnerability of individual mobility traces: a case study on license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
-* Sun L, Jin JG (2015) Modeling temporal flow assignment in metro networks using smart card data. 18th IEEE International Conference on Intelligent Transportation Systems (Las Palmas de Gran Canaria, Spain). (doi:[10.1109/ITSC.2015.141](hhttp://dx.doi.org/10.1109/ITSC.2015.141))
+* Sun L, Jin JG (2015) Modeling temporal flow assignment in metro networks using smart card data. 18th IEEE International Conference on Intelligent Transportation Systems (Las Palmas de Gran Canaria, Spain). (doi:[10.1109/ITSC.2015.141](http://dx.doi.org/10.1109/ITSC.2015.141))
 
 * Sun L, Lu Y, Lee D-H (2015) Understanding the structure of urban bus networks: the C-space representation approach. 15th COTA International Conference of Transportation Professionals (Beijing, China). (doi:[10.1061/9780784479292.143](http://dx.doi.org/10.1061/9780784479292.143))
 
