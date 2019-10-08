@@ -8,10 +8,10 @@ author_profile: true
 Current students @ McGill University.
 
 ## PhD Students
-* Xudong Wang (2018.9-)
+* Xudong Wang (2018.9-, MEDA)  
 * Annie Chang (2018.9-, co-supervised with Prof. Miranda-Moreno)
-* Zhanhong Cheng (2019.1-)
-* Mengying Lei (2019.9-)
+* Zhanhong Cheng (2019.1-, MEDA)
+* Mengying Lei (2019.9-, IVADO)
 * Jiawei Wang (2019.9-)
 * Jingbo Tian (2019.9-)
 * Fuqiang Liu (2019.9-, co-supervised with Prof. Miranda-Moreno)
@@ -23,9 +23,12 @@ Current students @ McGill University.
 * Leila Hawa (2019.1-)
 * Zhenyuan Ma (2019.1-)
 * Lulu Tan (2019.9-, co-supervised with Prof. Miranda-Moreno)
-* Dingyi Zhuang (2019.9-)
+* Dingyi Zhuang (2019.9-, GEF)
+* Mojdeh Sharafi (2019.9-)
+* Tianyu Shi (2020.1-)
 
 
 ## Visiting Students
 * Kangli Zhu, Beijing Jiaotong University (2019.1-2019.12)
 * Te Xu, Southeast University (2019.7-2019.10)
+* Yiting Zhu, Sun Yat-sen University (2019.8-2019.12)

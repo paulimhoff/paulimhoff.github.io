@@ -19,6 +19,8 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 Journal Publications
 ======
 
+* Liu L, Sun L, Chen Y, Ma X (2019) Optimizing fleet size and scheduling of feeder transit services considering the influence of bike-sharing systems. Journal of Cleaner Production 236: 117550. (doi:[10.1016/j.jclepro.2019.07.025](https://doi.org/10.1016/j.jclepro.2019.07.025))
+
 * Wang J, Kong X, Xia F, Sun L (2019) Urban human mobility: data-driven modeling and prediction. ACM SIGKDD Explorations 21(1): 1-19. (doi:[10.1145/3331651.3331653](https://doi.org/10.1145/3331651.3331653))
 
 * Gao J, Sun L, Cai M (2019) Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. Transportation Research Part C: Emerging Technologies 104:78-94. (doi:[10.1016/j.trc.2019.04.022](https://doi.org/10.1016/j.trc.2019.04.022))
