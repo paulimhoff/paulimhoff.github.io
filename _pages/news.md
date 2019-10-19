@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 
+* 10/2019: New paper with [Xinyu Chen](https://xinychen.github.io/). Chen, X., Sun L., 2019 [Bayesian temporal factorization for multidimensional time series prediction](https://arxiv.org/abs/1910.06366) arXiv preprint arXiv:1910.06366. The code for this project is available on [Github](https://github.com/xinychen/transdim). 
+
+* 10/2019: Dr. Yuankai Wu joins our group as a Postdoc Associate.
+
+* 8/2019: Mengying Lei received the 2019 [IVADO excellence PhD scholarship](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/). 
+
 * 4/2019: We have two PhD positions opening for 2020 Winter and 2020 Fall. Please contact Dr. Sun if you are interested. 
 
 * 4/2019: Mengying Lei (PhD, graudated from Beihang University), Jiawei Wang (PhD, graduated from Sun Yat-sen University), Jingbo Tian (PhD, graduated from Simon Fraser University), and Dingyi Zhuang (MS, graduated from Shanghai Jiao Tong University) will join our research group in Fall 2019. 

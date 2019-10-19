@@ -7,6 +7,9 @@ author_profile: true
 
 Current students @ McGill University.
 
+## Postdoc
+* Yuankai Wu (2019.10-)
+
 ## PhD Students
 * Xudong Wang (2018.9-, MEDA)  
 * Annie Chang (2018.9-, co-supervised with Prof. Miranda-Moreno)

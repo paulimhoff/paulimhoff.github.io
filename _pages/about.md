@@ -42,18 +42,9 @@ Research Interests
 * Public transportation operation & planning
 
 
-
-
-Recent Papers
-======
-* Alabdulkareem, A., Frank, M.R., Sun, L., AlShebli, B., Hidalgo, C., Rahwan, I., 2018. [Unpacking the polarization of workplace skills](http://dx.doi.org/10.1126/sciadv.eaao6030). Science Advances 4(7), eaao6030.
-* Sun, L., Erath, A., Cai, M., 2018. [A hierarchical mixture modeling framework for population synthesis](https://doi.org/10.1016/j.trb.2018.06.002). Transportation Research Part B: Methodological 114, 199–212. 
-* Frank, M.R., Obradovich, N., Sun, L., Woon, W.L., LeVeck, B.L., Rahwan, I., 2018. [Detecting reciprocity at a global scale](http://dx.doi.org/10.1126/sciadv.aao5348). Science Advances 4(1), eaao5348.
-
-
-
 Selected Publications
 ======
+* Chen, X., Sun L., 2019 [Bayesian temporal factorization for multidimensional time series prediction](https://arxiv.org/abs/1910.06366) arXiv preprint arXiv:1910.06366.
 * Sun, L., Yin, Y., 2017. [Discovering themes and trends in transportation research using topic modeling](http://dx.doi.org/10.1016/j.trc.2017.01.013). Transportation Research Part C: Emerging Technologies 77, 49–66.
 * Sun, L., Axhausen, K.W., 2016. [Understanding urban mobility patterns with a probabilistic tensor factorization framework](http://dx.doi.org/10.1016/j.trb.2016.06.011). Transportation Research Part B: Methodological 91, 511–524.
 * Sun, L., Lu, Y., Jin, J.G., Lee, D.-H., Axhausen, K.W., 2015. [An integrated Bayesian approach for passenger flow assignment in metro networks](http://dx.doi.org/10.1016/j.trc.2015.01.001). Transportation Research Part C: Emerging Technologies 52, 116–131.
