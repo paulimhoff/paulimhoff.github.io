@@ -8,7 +8,7 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
-* Yuankai Wu (2019.10-)
+* [Yuankai Wu](https://kaimaoge.github.io/-blog/) (2019.10-)
 
 ## PhD Students
 * Xudong Wang (2018.9-, MEDA)  
@@ -26,7 +26,7 @@ Current students @ McGill University.
 * Leila Hawa (2019.1-)
 * Zhenyuan Ma (2019.1-)
 * Lulu Tan (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
-* Dingyi Zhuang (2019.9-, GEF)
+* [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-, GEF)
 * Mojdeh Sharafi (2019.9-)
 * Tianyu Shi (2020.1-, GEF)
 
@@ -35,3 +35,4 @@ Current students @ McGill University.
 * Kangli Zhu, Beijing Jiaotong University (2019.1-2019.12)
 * Te Xu, Southeast University (2019.7-2019.10)
 * Yiting Zhu, Sun Yat-sen University (2019.8-2019.12)
+* Mingyu Liu, Tsinghua University (2020.2-2020.9)
