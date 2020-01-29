@@ -11,7 +11,7 @@ Current students @ McGill University.
 * [Yuankai Wu](https://kaimaoge.github.io/-blog/) (2019.10-)
 
 ## PhD Students
-* Xudong Wang (2018.9-, MEDA)  
+* [Xudong Wang](https://martina1024.github.io/) (2018.9-, MEDA)  
 * Annie Chang (2018.9-, co-supervised with Prof. Luis Miranda-Moreno)
 * Zhanhong Cheng (2019.1-, MEDA, co-supervised with Prof. Martin Trepanier at PolyMtl)
 * Mengying Lei (2019.9-, IVADO & MEDA, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
@@ -29,6 +29,7 @@ Current students @ McGill University.
 * [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-, GEF)
 * Mojdeh Sharafi (2019.9-)
 * Tianyu Shi (2020.1-, GEF)
+* Chengyuan Zhang (2020.8-)
 
 
 ## Visiting Students

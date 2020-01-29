@@ -5,11 +5,30 @@ author_profile: true
 ---
 
 
+
+* 2/2020: Our group has one postdoc position available. The position involves research in two machine learning-related projects on (1) spatiotemporal modeling of urban mobility/traffic data and (2) reinforcement learning environment for traffic signal control. Candidates should be able to work independently, and are also expected to collaborate with researchers working on artificial intelligence in Montreal. 
+
+* 2/2020: Dr. [Yuankai Wu](https://kaimaoge.github.io/-blog/) received the 2020 [IVADO Postdoctoral Scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
+
+* 1/2020: Prof. Oded Cats from TU Delft visited our group. Dr. Sun hosted a seminar given by Dr. Cats at CIRRELT.
+
+* 1/2020: Our team presented four papers at TRB 2020.
+
+* 1/2020: Tianyu Shi joined our group as a Master-thesis student.
+
+* 11/2019: Dr. Sun joins the International Scientific Committee for International Symposium on Transportation Data andModeling (ISTDM), Ann Arbor, Michigan, US, June 24-26.
+
+* 11/2019: Dr. Sun received an NSERC Engage grant with [GIRO Inc](https://www.giro.ca/en-ca/).
+
 * 10/2019: New paper with [Xinyu Chen](https://xinychen.github.io/). Chen, X., Sun L., 2019 [Bayesian temporal factorization for multidimensional time series prediction](https://arxiv.org/abs/1910.06366) arXiv preprint arXiv:1910.06366. The code for this project is available on [Github](https://github.com/xinychen/transdim). 
 
 * 10/2019: Dr. Yuankai Wu joins our group as a Postdoc Associate.
 
-* 8/2019: Mengying Lei received the 2019 [IVADO excellence PhD scholarship](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/). 
+* 8/2019: Mengying Lei received the 2019 [IVADO excellence PhD scholarship](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/).
+
+* 8/2019: Dr. Sun received CFI JELF grant to build a Research Laboratory on Smart Transportation. [McGill News](https://www.mcgill.ca/newsroom/channels/news/mcgill-researchers-receive-65m-funding-cfi-and-government-quebec-299460).
+
+* 6/2019: Dr. Sun received an NSERC Discovery Grant and Early Career Supplement. 
 
 * 4/2019: We have two PhD positions opening for 2020 Winter and 2020 Fall. Please contact Dr. Sun if you are interested. 
 
@@ -17,7 +36,13 @@ author_profile: true
 
 * 3/2019: Xudong Wang and Zhenyuan Ma are selected to attend [DLRL Summer School](https://www.cifar.ca/events/deep-learning-and-reinforcement-learning-summer-school) in Alberta.
 
+* 2/2019: Dr. Sun (PI) and Prof. Martin Trepanier from PolyMtl received an Mitacs Accelerate grant with [exo.quebec](https://exo.quebec/).
+
 * 2/2019: I am looking for motivated Postdoc Associate starting ASAP in the general area of machine learning for transportation. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement and transcripts.
+
+* 1/2019: Dr. Sun gave a talk at CIRRELT on "Bayesian temporal factorization models".
+
+* 1/2019: Prof. Kay W. Axhausen visited our group. Dr. Sun hosted a seminar given by Prof. Axhausen at CIRRELT.
 
 * 1/2019: Dr. Sun will present two papers at Transportation Annual Meeting in Washington, DC. 
 
