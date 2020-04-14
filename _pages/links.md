@@ -18,6 +18,7 @@ Machine learning basics
 * [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+* [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 * [Deep Learning](http://www.deeplearningbook.org/)
 * [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
 * [Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html#id99)
