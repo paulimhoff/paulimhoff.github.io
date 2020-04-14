@@ -28,8 +28,8 @@ Current students @ McGill University.
 * Lulu Tan (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
 * [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-, GEF)
 * Mojdeh Sharafi (2019.9-)
-* Tianyu Shi (2020.1-, GEF)
-* Chengyuan Zhang (2020.8-)
+* Tianyu Shi (2020.1-, GEF, IVADO Msc)
+* [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc)
 
 
 ## Visiting Students
