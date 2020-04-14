@@ -25,6 +25,7 @@ Machine learning basics
 * [All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/)
 * [Foundations of Machine Learning](https://github.com/paullintilhac/Machine-Learning/blob/master/Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri%2C%20A.%20Rostamizadeh%2C%20A.%20Talwalkar.pdf)
 * [Partially Observed Markov Decision Processes](http://www.cambridge.org/gb/academic/subjects/engineering/communications-and-signal-processing/partially-observed-markov-decision-processes-filtering-controlled-sensing?format=HB)
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [Mike Jordan's Reading List](https://news.ycombinator.com/item?id=1055389)
 * [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772)
 * [Colah's Blog](https://colah.github.io/)
@@ -64,9 +65,11 @@ Online courses
 
 Research groups
 ========
+* [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/)
 * [Uber Visualization](http://philogb.github.io/)
 * [Yan Liu](http://www-bcf.usc.edu/~liu32/)
 * [Rose Yu](http://roseyu.com)
+* [Tatsuya Yokota](https://sites.google.com/site/yokotatsuya/)
 * [Jessie Li](https://faculty.ist.psu.edu/jessieli/Site/index.html)
 * [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home)
 * [Cyrus Shahabi](https://infolab.usc.edu/Shahabi/)
