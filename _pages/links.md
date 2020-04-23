@@ -50,6 +50,7 @@ Online courses
 ========
 * [Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 * [Probabilistic Graphical Models](http://people.eecs.berkeley.edu/~jordan/prelims/)
+* [Princeton](http://www.princeton.edu/~yc5/ele538b_sparsity/index.html)
 * [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 * [NLP with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [MLSS](https://www.youtube.com/watch?v=XLHB-Aktxw0&list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
