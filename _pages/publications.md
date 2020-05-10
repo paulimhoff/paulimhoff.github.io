@@ -66,7 +66,7 @@ Journal Publications
 * Jin JG, Tang LC, Sun L, Lee D-H (2014) Enhancing metro network resilience via localized integration with bus services. Transportation Research Part E: Logistics and Transportation Review 63:17-30. (doi:[10.1016/j.tre.2014.01.002](http://dx.doi.org/10.1016/j.tre.2014.01.002)) [[pdf](https://lijunsun.github.io/files/papers/2014-TRE-Resilience.pdf)]
 
 
-* Sun L, Axhausen KW, Lee D-H, Huang X (2013) Understanding metropolitan patterns of daily encounters. Proceedings of the National Academy of Sciences of the United States of America (PNAS) 110(34):13774-13779. (doi:[10.1073/pnas.1306440110](http://dx.doi.org/10.1073/pnas.1306440110)) [[pdf](https://lijunsun.github.io/files/papers/2013-PNAS-Encounter.pdf.pdf)]
+* Sun L, Axhausen KW, Lee D-H, Huang X (2013) Understanding metropolitan patterns of daily encounters. Proceedings of the National Academy of Sciences of the United States of America (PNAS) 110(34):13774-13779. (doi:[10.1073/pnas.1306440110](http://dx.doi.org/10.1073/pnas.1306440110)) [[pdf](https://lijunsun.github.io/files/papers/2013-PNAS-Encounter.pdf)]
 
 
 * Lee D-H, Wu X, Sun L (2013) Limited information-sharing strategy for the taxi-customer searching problem in the non-booking taxi services. Transportation Research Record: Journal of the Transportation Research Board. 2284:57-61. (doi:[10.3141/2333-06](http://dx.doi.org/10.3141/2333-06)) [[pdf](https://lijunsun.github.io/files/papers/2013-TRR-Taxi.pdf)]
