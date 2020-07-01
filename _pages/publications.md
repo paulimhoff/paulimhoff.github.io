@@ -27,7 +27,7 @@ Journal Publications
 
 * Gao J, Sun L, Cai M (2019) Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. Transportation Research Part C: Emerging Technologies 104:78-94. (doi:[10.1016/j.trc.2019.04.022](https://doi.org/10.1016/j.trc.2019.04.022)) <!--[[pdf](../files/papers/2019-TRC-Privacy.pdf)]-->
 
-* Zhang M, Zhou X, Zhang Y, Sun L, Dun M, Du W, Cao X (2019) Propagation index on airport delays. Transportation Research Record 2673(8): 536-543. (doi:[10.1177/0361198119844240 ](https://doi.org/10.1177/0361198119844240)) <!--[[pdf](../files/papers/2019-TRR-Airport.pdf)]-->
+* Zhang M, Zhou X, Zhang Y, Sun L, Dun M, Du W, Cao X (2019) Propagation index on airport delays. Transportation Research Record 2673(8): 536-543. (doi:[10.1177/0361198119844240](https://doi.org/10.1177/0361198119844240)) <!--[[pdf](../files/papers/2019-TRR-Airport.pdf)]-->
 
 * Chen X, He Z, Sun L (2019) A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. Transportation Research Part C: Emerging Technologies 98:73-84. (doi:[10.1016/j.trc.2018.11.003](http://dx.doi.org/10.1016/j.trc.2018.11.003)) <!--[[pdf](../files/papers/2019-TRC-Tensor.pdf)]-->
 

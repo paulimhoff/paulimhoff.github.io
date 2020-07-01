@@ -19,8 +19,7 @@ Current students @ McGill University.
 * Jingbo Tian (2019.9-)
 * Fuqiang Liu (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
 * [Xinyu Chen](https://xinychen.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
-
-
+* Xiaoxu Chen (2020.9-)
 
 
 ## Master Students
@@ -30,7 +29,7 @@ Current students @ McGill University.
 * Lulu Tan (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
 * [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-, GEF)
 * Mojdeh Sharafi (2019.9-)
-* Tianyu Shi (2020.1-, GEF, IVADO Msc)
+* Tianyu Shi (2020.1-, GEF, IVADO Msc, co-supervised with Prof. Luis Miranda-Moreno)
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc)
 
 

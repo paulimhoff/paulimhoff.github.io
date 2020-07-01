@@ -63,6 +63,7 @@ Online courses
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [cs294@berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&fbclid=IwAR3RGagZcXCJ0wiPVtfmYLSXGB6SQ9NVnQFKNGVlb98RCTbP84kTvzN2KsE)
+* [Duke System Identification](http://people.duke.edu/~hpgavin/SystemID/)
 
 
 Research groups
