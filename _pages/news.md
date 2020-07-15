@@ -32,7 +32,7 @@ author_profile: true
 
 * 1/2020: Tianyu Shi joined our group as a Master-thesis student.
 
-* 11/2019: Dr. Sun joins the International Scientific Committee for International Symposium on Transportation Data andModeling (ISTDM), Ann Arbor, Michigan, US, June 24-26.
+* 11/2019: Dr. Sun joins the International Scientific Committee for International Symposium on Transportation Data and Modeling (ISTDM), Ann Arbor, Michigan, US, June 24-26.
 
 * 11/2019: Dr. Sun received an NSERC Engage grant with [GIRO Inc](https://www.giro.ca/en-ca/).
 

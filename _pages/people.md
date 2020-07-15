@@ -8,7 +8,9 @@ author_profile: true
 Current students @ McGill University.
 
 ## Postdoc
-* [Yuankai Wu](https://kaimaoge.github.io/-blog/) (2019.10-, IVADO Postdoc Fellowship)
+* [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-, IVADO Postdoc Fellowship)
+* [Feilong Wang](https://sites.google.com/view/feilong-wang/home) (2020.1-, co-supervised with Prof. Nicolas Saunier)
+
 
 ## PhD Students
 * [Xudong Wang](https://martina1024.github.io/) (2018.9-, MEDA, FRQNT B2X Scholarship)  
