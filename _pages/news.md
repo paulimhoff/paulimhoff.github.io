@@ -20,6 +20,8 @@ author_profile: true
 
 * 3/2020: [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) received the [2020 IVADO excellence Msc scholarship](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-msc/). Chengyuan will join our group in 2020 Fall. Congrats, Chengyuan!
 
+* 3/2020: [Xinyu Chen](https://xinychen.github.io/) received the [2020 IVADO excellence PhD scholarship](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/). Xinyu will join PolyMtl in 2020 Fall under the joint supervision of Prof. Nicolas Saunier and Prof. Lijun Sun. Congrats, Xinyu!
+
 * 2/2020: Our group has one postdoc position available. The position involves research in two machine learning-related projects on (1) spatiotemporal modeling of urban mobility/traffic data and (2) reinforcement learning environment for traffic signal control. Candidates should be able to work independently, and are also expected to collaborate with researchers working on artificial intelligence in Montreal. 
 
 * 2/2020: Dr. [Yuankai Wu](https://kaimaoge.github.io/) received the 2020 [IVADO Postdoctoral Scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
