@@ -4,11 +4,25 @@ permalink: /news/
 author_profile: true
 ---
 
+* 7/2020: Our group has two PhD positions avaiable for Winter/Fall 2021. Please contact Dr. Sun if you are interested.
 
+* 7/2020: Dr. [Feilong Wang](https://sites.google.com/view/feilong-wang/home) will join our group as a postdoc researcher. Welcome, Feilong!
+
+* 7/2020: Xiaoxu Chen received CSC PhD scholarship and he will join our group in the fall semester. Congrats, Xiaoxu!
+
+* 6/2020: Our team (PI: Prof. Nicolas Saunier, co-PI: Prof. Francesco Ciari, Prof. Catherine Morency, Prof. Martin Trepanier, and Prof. Lijun Sun)  received [IVADO Fundamental Research Projects Grant](https://ivado.ca/en/ivado-scholarships/fundamental-research-projects-grants/). Thanks, IVADO!
+
+* 6/2020: Our team (PI: Prof. Aurelie Labbe, co-PI: Prof. Lijun Sun, Prof. Martin Trepanier, and Prof. Luis Miranda-Moreno) received support from the [FRQSC-NSFC Research Program on Smart Cities and Big Data](http://www.frqsc.gouv.qc.ca/en/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse/nsfc-frqsc-research-program-on-smart-cities-and-big-data-degbbao11568127414161). Thanks for the support, FRQ!
+
+* 4/2020: Dr. Sun received the FRQNT Research Support for New Academics Grants. Thanks, FRQ! 
+
+* 4/2020: [Xudong Wang](https://martina1024.github.io/) got FRQNT B2X PhD scholarship. Congrats, Xudong!
+
+* 3/2020: [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) received the [2020 IVADO excellence Msc scholarship](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-msc/). Chengyuan will join our group in 2020 Fall. Congrats, Chengyuan!
 
 * 2/2020: Our group has one postdoc position available. The position involves research in two machine learning-related projects on (1) spatiotemporal modeling of urban mobility/traffic data and (2) reinforcement learning environment for traffic signal control. Candidates should be able to work independently, and are also expected to collaborate with researchers working on artificial intelligence in Montreal. 
 
-* 2/2020: Dr. [Yuankai Wu](https://kaimaoge.github.io/-blog/) received the 2020 [IVADO Postdoctoral Scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
+* 2/2020: Dr. [Yuankai Wu](https://kaimaoge.github.io/) received the 2020 [IVADO Postdoctoral Scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
 
 * 1/2020: Prof. Oded Cats from TU Delft visited our group. Dr. Sun hosted a seminar given by Dr. Cats at CIRRELT.
 
