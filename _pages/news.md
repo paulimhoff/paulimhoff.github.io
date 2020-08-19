@@ -4,6 +4,9 @@ permalink: /news/
 author_profile: true
 ---
 
+
+* 8/2020: Dr. [Wenshuo Wang](http://wenshuow.com/) received the 2020 IVADO Postdoc Fellowship! He will join our group as a postdoc researcher in January 2021. Congrats and welcome, Wenshuo!
+
 * 7/2020: Our group has two PhD positions avaiable for Winter/Fall 2021. Please contact Dr. Sun if you are interested.
 
 * 7/2020: Dr. [Feilong Wang](https://sites.google.com/view/feilong-wang/home) will join our group as a postdoc researcher. Welcome, Feilong!
