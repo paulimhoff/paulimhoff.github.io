@@ -38,6 +38,4 @@ Current students @ McGill University.
 
 ## Visiting Students
 * Kangli Zhu, Beijing Jiaotong University (2019.1-2019.12)
-* Te Xu, Southeast University (2019.7-2019.10)
 * Yiting Zhu, Sun Yat-sen University (2019.8-2019.12)
-* Mingyu Liu, Tsinghua University (2020.2-2020.9)
