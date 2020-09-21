@@ -9,7 +9,7 @@ Current students @ McGill University.
 
 ## Postdoc
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship)
-* [Feilong Wang](https://sites.google.com/view/feilong-wang/home) (2021.1-, co-supervised with Prof. Nicolas Saunier)
+<!--  [Feilong Wang](https://sites.google.com/view/feilong-wang/home) (2021.1-, co-supervised with Prof. Nicolas Saunier) -->
 * [Wenshuo Wang](http://wenshuow.com/) (2021.1-, IVADO Postdoc Fellowship)
 
 
