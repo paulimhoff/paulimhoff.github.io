@@ -4,12 +4,19 @@ permalink: /news/
 author_profile: true
 ---
 
+* 12/2020: Our paper "Inductive Graph Neural Networks for Spatiotemporal Kriging" [arxiv:2006.07527](https://arxiv.org/abs/2006.07527) is accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/). Congrats, Team!
+
+* 12/2020: Zhenyuan and Lulu have submitted the final thesis. They are the first batch of master students graduated from Smart Transportation Lab. Congrats, Zhenyuan & Lulu.
+
+* 12/2020: Our paper "Diagnosing spatiotemporal traffic anomalies with low-rank tensor autoregression" is accepted for pulication at IEEE T-ITS.
+
+* 12/2020: Dr. Sun joins the editor team of [Transportation Research Part C](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies). He is an Associate Editor handling machine learning-related papers. 
+
+* 10/2020: Our group have four papers accepted at TRB 2021 (online meeting). The four presentations will be given in January 2021. 
 
 * 8/2020: Dr. [Wenshuo Wang](http://wenshuow.com/) received the 2020 IVADO Postdoc Fellowship! He will join our group as a postdoc researcher in January 2021. Congrats and welcome, Wenshuo!
 
 * 7/2020: Our group has two PhD positions avaiable for Winter/Fall 2021. Please contact Dr. Sun if you are interested.
-
-* 7/2020: Dr. [Feilong Wang](https://sites.google.com/view/feilong-wang/home) will join our group as a postdoc researcher. Welcome, Feilong!
 
 * 7/2020: Xiaoxu Chen received CSC PhD scholarship and he will join our group in the fall semester. Congrats, Xiaoxu!
 
