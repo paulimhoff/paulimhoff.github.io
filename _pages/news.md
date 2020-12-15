@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 12/2020: Congratulations to Dingyi Zhuang, Jiawei Wang, and Zhanhong Cheng on winning the CIRRELT Excellent Master/PhD Scholarship in the 2020-2021 competition. 
+
 * 12/2020: Our paper "Inductive Graph Neural Networks for Spatiotemporal Kriging" [arxiv:2006.07527](https://arxiv.org/abs/2006.07527) is accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/). Congrats, Team!
 
 * 12/2020: Zhenyuan and Lulu have submitted the final thesis. They are the first batch of master students graduated from Smart Transportation Lab. Congrats, Zhenyuan & Lulu.

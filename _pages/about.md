@@ -16,7 +16,7 @@ My current research centers on the area of smart transportation and urban comput
 
 For Prospective Students/Postdocs
 ======
-* I am looking for one motivated Postdoc Associate to start in 2020 Fall in the general area of machine learning for transportation. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement and transcripts.
+* I am looking for one motivated Postdoc Associate to start in 2021 Fall in the general area of machine learning for transportation and urban research. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement (one page or less) and transcripts.
 * I am looking for 1-2 PhD students for 2021 Fall and 2022 Winter (Spring) who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject. Due to the large volume of emails, I apologize for not replying to individual inquries I have received. 
 * See [more info about Civil Engineering @ McGill University](https://www.mcgill.ca/civil/grad).
 * Ben Barres' advice on [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005).
