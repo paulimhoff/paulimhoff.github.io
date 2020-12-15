@@ -21,8 +21,9 @@ Current students @ McGill University.
 * Jiawei Wang (2019.9-, CIRRELT PhD Scholarship)
 * Jingbo Tian (2019.9-)
 * Fuqiang Liu (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
-* [Xinyu Chen](https://xinychen.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
+* [Xinyu Chen](https://transdim.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
 * Xiaoxu Chen (2020.9-)
+* [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA)
 
 
 ## Master Students
