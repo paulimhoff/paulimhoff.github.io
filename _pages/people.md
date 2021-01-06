@@ -16,10 +16,10 @@ Current students @ McGill University.
 ## PhD Students
 * [Xudong Wang](https://martina1024.github.io/) (2018.9-, MEDA, FRQNT B2X Scholarship)  
 * Annie Chang (2018.9-, co-supervised with Prof. Luis Miranda-Moreno)
-* Zhanhong Cheng (2019.1-, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl)
+* [Zhanhong Cheng](https://chengzhanhong.github.io/) (2019.1-, MEDA, CIRRELT PhD Scholarship, co-supervised with Prof. Martin Trepanier at PolyMtl)
 * Mengying Lei (2019.9-, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
-* Jiawei Wang (2019.9-, CIRRELT PhD Scholarship)
-* Jingbo Tian (2019.9-)
+* [Jiawei Wang](https://wangjw6.github.io/) (2019.9-, CIRRELT PhD Scholarship)
+* [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
 * Fuqiang Liu (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
 * [Xinyu Chen](https://transdim.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
 * Xiaoxu Chen (2020.9-)
@@ -27,10 +27,10 @@ Current students @ McGill University.
 
 
 ## Master Students
-* Ce Zhang (2018.9-, co-supervised with Prof. Luis Miranda-Moreno)
-* Leila Hawa (2019.1-)
-* Zhenyuan Ma (2019.1-)
-* Lulu Tan (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
+* Ce Zhang (2018.9-2020.12, co-supervised with Prof. Luis Miranda-Moreno)
+* Leila Hawa (2019.1-2020.6)
+* Zhenyuan Ma (2019.1-2020.12)
+* Lulu Tan (2019.9-2020.12, co-supervised with Prof. Luis Miranda-Moreno)
 * [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-, GEF, CIRRELT Master Scholarship)
 * Mojdeh Sharafi (2019.9-)
 * Tianyu Shi (2020.1-, GEF, IVADO Msc, co-supervised with Prof. Luis Miranda-Moreno)
