@@ -4,6 +4,10 @@ permalink: /news/
 author_profile: true
 ---
 
+* 03/2021: Dingyi has accepted a PhD offer from MIT, and Tianyu has accepted a PhD offer from UofT. This is great achievement. Congratulations!
+
+* 03/2021: Dingyi, Tianyu, and Mojdeh have successfully completed their master thesis presentations. Congratulations to you all. 
+
 * 12/2020: Congratulations to Dingyi Zhuang, Jiawei Wang, and Zhanhong Cheng on winning the CIRRELT Excellent Master/PhD Scholarship in the 2020-2021 competition. 
 
 * 12/2020: Our paper "Inductive Graph Neural Networks for Spatiotemporal Kriging" [arxiv:2006.07527](https://arxiv.org/abs/2006.07527) is accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/). Congrats, Team!
