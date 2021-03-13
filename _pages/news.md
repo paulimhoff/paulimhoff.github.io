@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 03/2021: Our paper "Bayesian Temporal Factorization for Multidimensional Time Series Prediction" is accepted at IEEE TPAMI! A preprint is at [arxiv:1910.06366](https://arxiv.org/abs/1910.06366). 
+
 * 03/2021: Dingyi has accepted a PhD offer from MIT, and Tianyu has accepted a PhD offer from UofT. This is great achievement. Congratulations!
 
 * 03/2021: Dingyi, Tianyu, and Mojdeh have successfully completed their master thesis presentations. Congratulations to you all. 
