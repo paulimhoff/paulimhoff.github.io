@@ -4,7 +4,12 @@ permalink: /news/
 author_profile: true
 ---
 
+
+* 03/2021: Dr. Sun gave a talk at Northwestern University Transportation Center (NUTC) on ["Low-rank modeling for spatiotemporal mobility and traffic data"](https://planitpurple.northwestern.edu/event/573360).
+
 * 03/2021: Our paper "Bayesian Temporal Factorization for Multidimensional Time Series Prediction" is accepted at IEEE TPAMI! A preprint is at [arxiv:1910.06366](https://arxiv.org/abs/1910.06366). 
+
+* 03/2021: Dr. Sun gave a talk at MIT Transit Lab on "Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition".
 
 * 03/2021: Dingyi has accepted a PhD offer from MIT, and Tianyu has accepted a PhD offer from UofT. This is great achievement. Congratulations!
 
