@@ -9,7 +9,6 @@ Current students @ McGill University.
 
 ## Postdoc
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship)
-<!--  [Feilong Wang](https://sites.google.com/view/feilong-wang/home) (2021.1-, co-supervised with Prof. Nicolas Saunier) -->
 * [Wenshuo Wang](http://wenshuow.com/) (2021.1-, IVADO Postdoc Fellowship)
 * [Zhicheng Liu](http://zhichengliu.me/) (2021.6-, co-supervised with Prof. Nicolas Saunier)
 
@@ -27,13 +26,13 @@ Current students @ McGill University.
 
 
 ## Master Students
-* Ce Zhang (2018.9-2020.12, co-supervised with Prof. Luis Miranda-Moreno)
-* Leila Hawa (2019.1-2020.6)
-* Zhenyuan Ma (2019.1-2020.12)
-* Lulu Tan (2019.9-2020.12, co-supervised with Prof. Luis Miranda-Moreno)
-* [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-, GEF, CIRRELT Master Scholarship)
+* Ce Zhang (2018.9-2020.12, co-supervised with Prof. Luis Miranda-Moreno, Now: PhD @ Waterloo)
+* Leila Hawa (2019.1-2020.6, Now: Solution Engineer @ Optibus)
+* Zhenyuan Ma (2019.1-2020.12, Now: Engineer)
+* Lulu Tan (2019.9-2020.12, co-supervised with Prof. Luis Miranda-Moreno, Now: Machine Learning Engineer @ Unity Technology)
+* [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-2021.6, GEF, CIRRELT Master Scholarship, Now: PhD @ MIT)
 * Mojdeh Sharafi (2019.9-)
-* Tianyu Shi (2020.1-, GEF, IVADO Msc, co-supervised with Prof. Luis Miranda-Moreno)
+* Tianyu Shi (2020.1-2021.6, GEF, IVADO Msc, co-supervised with Prof. Luis Miranda-Moreno, Now: PhD @ UofT)
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc)
 
 

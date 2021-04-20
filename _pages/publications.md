@@ -19,6 +19,8 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 Journal Publications
 ======
 
+The list is not frequently updated. Please see Google Scholar for recent updates.
+
 * Wang J, Sun L (2020) Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework. Transportation Research Part C: Emerging Technologies 116: 102661. (doi:[10.1016/j.trc.2020.102661](https://doi.org/10.1016/j.trc.2020.102661)) <!--[[pdf](../files/papers/2020-TRC-Bus.pdf)]-->
 
 * Liu L, Sun L, Chen Y, Ma X (2019) Optimizing fleet size and scheduling of feeder transit services considering the influence of bike-sharing systems. Journal of Cleaner Production 236: 117550. (doi:[10.1016/j.jclepro.2019.07.025](https://doi.org/10.1016/j.jclepro.2019.07.025)) <!--[[pdf](../files/papers/2019-JCP-Bike.pdf)]-->
