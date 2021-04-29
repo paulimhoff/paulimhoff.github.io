@@ -10,7 +10,7 @@ author_profile: true
 
 * 04/2021: Sicong Jiang (MS graudated from Georgia Institute of Technology) will join our group as a PhD student in 2021 Fall. Welcome, Sicong!
 
-* 04/2021: Zhanhong's paper "Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition" is accepted at CASPT 2021 and TR Part C. [Full paper](https://arxiv.org/abs/2101.00466)
+* 04/2021: Zhanhong's paper "Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition" is accepted at CASPT 2021. [Full paper](https://arxiv.org/abs/2101.00466)
 
 * 04/2021: Paper "Modeling bike-sharing demand using a regression model with spatially varying coefficients" from Xudong and Zhanhong is accepted at Journal of Transport Geography. [Full paper](https://doi.org/10.1016/j.jtrangeo.2021.103059)
 
