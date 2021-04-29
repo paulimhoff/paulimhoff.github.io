@@ -21,8 +21,9 @@ Current students @ McGill University.
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
 * Fuqiang Liu (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
 * [Xinyu Chen](https://transdim.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
-* Xiaoxu Chen (2020.9-)
+* Xiaoxu Chen (2020.9-, CSC, MEDA International)
 * [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA)
+* [Sicong Jiang](https://sicongjiang.fun/) (2021.9-, MEDA)
 
 
 ## Master Students

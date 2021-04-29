@@ -5,6 +5,15 @@ author_profile: true
 ---
 
 
+
+* 04/2021: Jiawei's paper "Reducing Bus Bunching with Asynchronous Multi-Agent Reinforcement Learning" is accepted at IJCAI-2021. Congrats, Jiawei!
+
+* 04/2021: Sicong Jiang (MS graudated from Georgia Institute of Technology) will join our group as a PhD student in 2021 Fall. Welcome, Sicong!
+
+* 04/2021: Zhanhong's paper "Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition" is accepted at CASPT 2021 and TR Part C. [Full paper](https://arxiv.org/abs/2101.00466)
+
+* 04/2021: Paper "Modeling bike-sharing demand using a regression model with spatially varying coefficients" from Xudong and Zhanhong is accepted at Journal of Transport Geography. [Full paper](https://doi.org/10.1016/j.jtrangeo.2021.103059)
+
 * 03/2021: Dr. Sun gave a talk at Northwestern University Transportation Center (NUTC) on ["Low-rank modeling for spatiotemporal mobility and traffic data"](https://planitpurple.northwestern.edu/event/573360).
 
 * 03/2021: Our paper "Bayesian Temporal Factorization for Multidimensional Time Series Prediction" is accepted at IEEE TPAMI! A preprint is at [arxiv:1910.06366](https://arxiv.org/abs/1910.06366). 
