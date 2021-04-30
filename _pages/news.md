@@ -4,7 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
-
+* 04/2020: Fuqiang got FRQNT B2X PhD scholarship. Congrats, Fuqiang! Thanks, FRQNT.
 
 * 04/2021: Jiawei's paper "Reducing Bus Bunching with Asynchronous Multi-Agent Reinforcement Learning" is accepted at IJCAI-2021. Congrats, Jiawei!
 
