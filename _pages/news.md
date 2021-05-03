@@ -4,7 +4,9 @@ permalink: /news/
 author_profile: true
 ---
 
-* 04/2020: Fuqiang got [FRQNT B2X PhD scholarship](http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse/programs-of-scholarships-of-2supndsup-and-3suprdsup-cycles-pmx5tfyt1592833344678). Congrats, Fuqiang! Thanks, FRQNT.
+* 05/2021: Zhanhong's paper "Incorporating travel behavior regularity into passenger flow forecasting" has been accepted for publication at Transportation Research Part C. Congrats, Zhanhong! [Full paper](https://arxiv.org/abs/2101.00466)
+
+* 04/2021: Fuqiang got [FRQNT B2X PhD scholarship](http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse/programs-of-scholarships-of-2supndsup-and-3suprdsup-cycles-pmx5tfyt1592833344678). Congrats, Fuqiang! Thanks, FRQNT.
 
 * 04/2021: Jiawei's paper "Reducing Bus Bunching with Asynchronous Multi-Agent Reinforcement Learning" is accepted at [IJCAI-2021](https://ijcai-21.org/). Congrats, Jiawei!
 
