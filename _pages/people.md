@@ -18,7 +18,7 @@ Current students @ McGill University.
 * Mengying Lei (2019.9-, MEDA & IVADO PhD Scholarship, co-supervised with Prof. Aurelie Labbe at HEC Montreal)
 * [Jiawei Wang](https://wangjw6.github.io/) (2019.9-, CIRRELT PhD Scholarship)
 * [Jingbo Tian](https://joshuatian-mcgill.github.io/) (2019.9-)
-* Fuqiang Liu (2019.9-, co-supervised with Prof. Luis Miranda-Moreno)
+* Fuqiang Liu (2019.9-, FRQNT B2X Scholarship, co-supervised with Prof. Luis Miranda-Moreno)
 * [Xinyu Chen](https://transdim.github.io/) (2020.9-, IVADO PhD Scholarship, co-supervised with Prof. Nicolas Saunier)
 * Xiaoxu Chen (2020.9-, CSC, MEDA International)
 * [Zhihao (Vincent) Zheng](https://vincent-zheng.com/) (2021.1-, MEDA)
