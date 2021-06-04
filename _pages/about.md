@@ -16,10 +16,10 @@ My current research centers on the area of smart transportation and urban comput
 
 For Prospective Students/Postdocs
 ======
-* I am looking for one motivated Postdoc Associate to start in 2021 Fall in the general area of machine learning for transportation and urban research. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement (one page or less) and transcripts.
+* I am looking for one motivated Postdoc Associate to start in 2022 Winter in (1) spatiotemporal modeling and (2) reinforcement learning for transit operation. Please send me an email (subject: "Prospective Postdoc Associate [Your name]") with your CV, a brief research statement (one page or less) and transcripts.
 * I am looking for 1 PhD student for 2022 Winter/Fall who are excited about machine learning for smart transportation. If you're interested, please send me an email or apply through the [McGill uApply](https://www.mcgill.ca/uapply) system. Please use "Prospective PhD student [Your name]" as your email subject. Due to the large volume of emails, I apologize for not replying to individual inquries I have received. 
 * See [more info about Civil Engineering @ McGill University](https://www.mcgill.ca/civil/grad).
-* Ben Barres' advice on [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005).
+<!-- Ben Barres' advice on [How to Pick a Graduate Advisor](https://doi.org/10.1016/j.neuron.2013.10.005).*/ -->
 * If you have a good record in mathematics/machine learning, you are encouraged to apply for the [IVADO graduate student scholarship](https://ivado.ca/en/excellence-scholarships/).
 * Postdocs or final year PhD students with strong mathematics/machine learning background (and also application in smart transportation, e.g., spatiotemporal prediction, generative model for urban activity) are __strongly encouraged__ to apply for the [IVADO postdoc scholarship](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). Very competitive package!
 * Scholarship opportunities:
@@ -32,10 +32,10 @@ Research Interests
 ======
 * Urban computing & smart cities
 * Machine learning for mobility modeling
+* Public transportation operation & planning
 * Intelligent transportation systems
 * Spatio-temporal traffic state modeling/predication
-* Infrastructure resilience
+<!-- * Infrastructure resilience -->
 * Data-driven urban/transportation systems modeling
 * Human mobility and travel behavior
 * Agent-based modeling and simulation
-* Public transportation operation & planning
