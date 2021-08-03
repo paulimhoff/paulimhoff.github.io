@@ -31,9 +31,9 @@ Current students @ McGill University.
 * Zhenyuan Ma (2019.1-2020.12, Now: Research Engineer @ State Grid Corporation of China)
 * Lulu Tan (2019.9-2020.12, co-supervised with Prof. Luis Miranda-Moreno, Now: Machine Learning Engineer @ Unity Technology)
 * [Dingyi Zhuang](https://zhuangdingyi.github.io/) (2019.9-2021.6, GEF, CIRRELT Master Scholarship, Now: PhD @ MIT)
-* [Shirwa Mahdi] (2020.1-2021.6, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
+* Shirwa Mahdi (2020.1-2021.6, co-supervised Msc at PolyMtl, main supervisor Prof. Martin Trepanier)
 * Mojdeh Sharafi (2019.9-2021.8, co-supervised with Prof. Laxmi Sushama)
-* Tianyu Shi (2020.1-2021.8, GEF, IVADO Msc, co-supervised with Prof. Luis Miranda-Moreno, Now: PhD @ UofT)
+<!-- * Tianyu Shi (2020.1-2021.8, GEF, IVADO Msc, co-supervised with Prof. Luis Miranda-Moreno, Now: PhD @ UofT) -->
 * [Chengyuan Zhang](https://chengyuanzhang.wixsite.com/home) (2020.8-, IVADO Msc)
 
 
