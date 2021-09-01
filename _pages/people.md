@@ -9,7 +9,7 @@ Current students @ McGill University.
 
 ## Postdoc
 * [Yuankai Wu](https://kaimaoge.github.io/) (2019.10-, co-supervised with Prof. Aurelie Labbe, IVADO Postdoc Fellowship)
-* [Wenshuo Wang](http://wenshuow.com/) (2021.1-, IVADO Postdoc Fellowship)
+* [Wenshuo Wang](http://wenshuow.com/) (2021.7-, IVADO Postdoc Fellowship)
 * Mengyi Sha (2021.8-, co-supervised Postdoc Researcher, main supervisor Prof. Wei Qi)
 * [Seongjin Choi](https://benchoi93.github.io/) (2022.1-, co-supervised with Prof. Nicolas Saunier)
 
