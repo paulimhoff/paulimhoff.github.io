@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* 08/2021: Our group is awarded an RTX 8000 GPU from the NVIDIA Academic Hardware Grant Program. Thank you, NVIDIA!
+
 * 05/2021: Zhanhong's paper "Incorporating travel behavior regularity into passenger flow forecasting" has been accepted for publication at Transportation Research Part C. Congrats, Zhanhong! [Full paper](https://arxiv.org/abs/2101.00466)
 
 * 04/2021: Fuqiang got [FRQNT B2X PhD scholarship](http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse/programs-of-scholarships-of-2supndsup-and-3suprdsup-cycles-pmx5tfyt1592833344678). Congrats, Fuqiang! Thanks, FRQNT.
