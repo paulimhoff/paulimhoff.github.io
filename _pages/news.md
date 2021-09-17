@@ -4,7 +4,17 @@ permalink: /news/
 author_profile: true
 ---
 
+* 09/2021: Dr. Seongjin Choi from KAIST (Korea) will join our group as a postdoc researcher starting from January 2022. 
+
+* 09/2021: Yuankai's paper "Deep learning-based super-resolution climate simulator-emulator framework for urban heat studies" is accepted at Geophysical Research Letters (AGU). 
+
+* 09/2021: Paper "Low-Rank Autoregressive Tensor Completion for Spatiotemporal Traffic Data Imputation" from Xinyu and Mengying is accepted at IEEE Transactions on ITS. [Full paper](https://arxiv.org/abs/2104.14936)
+
+* 09/2021: Dr. Sun will serve as a Senior Program Committee (SPC) member for the AI for Social Impact track at AAAI 2022. 
+
 * 08/2021: Our group is awarded an RTX 8000 GPU from the NVIDIA Academic Hardware Grant Program. Thank you, NVIDIA!
+
+* 08/2021: Dr. Mengyi Sha joined our group as a postdoc researcher. 
 
 * 05/2021: Zhanhong's paper "Incorporating travel behavior regularity into passenger flow forecasting" has been accepted for publication at Transportation Research Part C. Congrats, Zhanhong! [Full paper](https://arxiv.org/abs/2101.00466)
 
