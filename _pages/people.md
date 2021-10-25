@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Current students @ University of Delaware.
+Current students and postdocs at the University of Delaware.
 
 ## Postdoc
 * Seyyedaliakbar (Ali) Nakhli (2021.1-2021.9) 
