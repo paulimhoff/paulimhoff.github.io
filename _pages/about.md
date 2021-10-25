@@ -30,4 +30,5 @@ Current Research Interests
 * Influence of biochar on plant growth, root structure, and infiltration capacity of soils and engineered geomedia
 * Remediation of soils contaminated by spills of fracking fluids
 * Greenhouse gas emissions from landfills - measurement, modeling, and control
+* Development of breathable membrane toilets for developing countries
 
