@@ -13,9 +13,8 @@ redirect_from:
 Education
 ======
 * 1992 | Ph.D | Princeton University
-* 1992 | Ph.D | Princeton University
 * 1988 | M.A | Princeton University
-* 1986 | M.S | University of Wisconsin at Madison
+* 1986 | M.S | University of Wisconsin - Madison
 * 1983 | B.S. | University of Cincinnati
 
 Research Areas
