@@ -14,93 +14,86 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
+You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=DnN8aCQAAAAJ&hl=en&oi=sra) profile .
 
-Journal Publications
+Recent Journal Publications
 ======
 
 The list is not frequently updated. Please see Google Scholar for recent updates.
 
-* Wang J, Sun L (2020) Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework. Transportation Research Part C: Emerging Technologies 116: 102661. (doi:[10.1016/j.trc.2020.102661](https://doi.org/10.1016/j.trc.2020.102661)) <!--[[pdf](../files/papers/2020-TRC-Bus.pdf)]-->
+* Yan, Y., Nakhli, S.A.A., Jin, J., Mills, G., Wilson, C.S., Legates, D.R., Manahiloh, K.N., and P.T. Imhoff (2021) Predicting the impact of biochar on the saturated hydraulic conductivity of natural and engineered media, *Journal of Environmental Management*, in press.
 
-* Liu L, Sun L, Chen Y, Ma X (2019) Optimizing fleet size and scheduling of feeder transit services considering the influence of bike-sharing systems. Journal of Cleaner Production 236: 117550. (doi:[10.1016/j.jclepro.2019.07.025](https://doi.org/10.1016/j.jclepro.2019.07.025)) <!--[[pdf](../files/papers/2019-JCP-Bike.pdf)]-->
+* Saxena, S., Srivastave, P.K., Dentel, S.K.,Imhoff, P.T., and D. K. Cha (2021) Field demonstration of breathable laminate-lined container-based toilets in Kanpur, India, *Journal of Water, Sanitation and Hygiene for Development*, in press.
 
-* Wang J, Kong X, Xia F, Sun L (2019) Urban human mobility: data-driven modeling and prediction. ACM SIGKDD Explorations 21(1): 1-19. (doi:[10.1145/3331651.3331653](https://doi.org/10.1145/3331651.3331653)) <!--[[pdf](../files/papers/2019-KDD-Explorations.pdf)]-->
+* Nakhli, S.A.A., Tian, J., Jin, and P.T. Imhoff (2021) Preparing and characterizing repacked columns for experiments in biochar-amended soils, *MethodsX*, DOI: https://doi.org/10.1016/j.mex.2020.101205.
 
-* Gao J, Sun L, Cai M (2019) Quantifying privacy vulnerability of individual mobility traces: A case study of license plate recognition data. Transportation Research Part C: Emerging Technologies 104:78-94. (doi:[10.1016/j.trc.2019.04.022](https://doi.org/10.1016/j.trc.2019.04.022)) <!--[[pdf](../files/papers/2019-TRC-Privacy.pdf)]-->
+* Nakhli, S.A.A., Goy, S., Manahiloh, K.N., and P.T. Imhoff (2021) Spatial heterogeneity of biochar (segregation) in biochar-amended media: an overlooked phenomenon, and its impact on saturated hydraulic conductivity, *Journal of Environmental Management*, DOI: 10.1016/j.jenvman.2020.111588.
 
-* Zhang M, Zhou X, Zhang Y, Sun L, Dun M, Du W, Cao X (2019) Propagation index on airport delays. Transportation Research Record 2673(8): 536-543. (doi:[10.1177/0361198119844240](https://doi.org/10.1177/0361198119844240)) <!--[[pdf](../files/papers/2019-TRR-Airport.pdf)]-->
+* Nakhli, S.A.A., and P.T. Imhoff (2020) Models for predicting water retention in pyrogenic
+carbon (biochar) and biochar‐amended soil at low water contents, *Water Resources Research*, DOI: 10.1029/2020WR027726.
 
-* Chen X, He Z, Sun L (2019) A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. Transportation Research Part C: Emerging Technologies 98:73-84. (doi:[10.1016/j.trc.2018.11.003](http://dx.doi.org/10.1016/j.trc.2018.11.003)) <!--[[pdf](../files/papers/2019-TRC-Tensor.pdf)]-->
+* Yi, S., Chang, N. Y., and P.T. Imhoff (2020) Predicting water retention of biochar-amended soil from independent measurements of biochar and soil properties, *Advances in Water Resources*, DOI: 10.1016/j.advwatres.2020.103638.
 
-* Alabdulkareem A, Frank MR, Sun L, AlShebli B, Hidalgo C, Rahwan I (2018) Unpacking the polarization of workplace skills. Science Advances 4(7):eaao6030. (doi:[10.1126/sciadv.aao6030](http://dx.doi.org/10.1126/sciadv.aao6030)) <!--[[pdf](../files/papers/2018-SA-Skills.pdf)]-->
+* Bakhshayesh, B.E.,  Saxena, S., and P.T. Imhoff (2019) Understanding fecal sludge drying in membrane-lined container-based toilets for developing countries with CFD modeling, *Environmetal Science-Water Research & Technology*, DOI: 10.1039/c9ew00583h.
 
-* Sun L, Erath A, Cai M (2018) A hierarchical mixture modeling framework for population synthesis. Transportation Research Part B: Methodological 114:199-212. (doi:[10.1016/j.trb.2018.06.002](https://doi.org/10.1016/j.trb.2018.06.002)) [[Code](https://github.com/lijunsun/population_synthesis_hierarchical)] <!--[[pdf](../files/papers/2018-TRB-Population.pdf)]-->
+* Saxena, S., Ebrazibakhshayesh, B., Dentel, S.K., Cha, D.K., and P.T. Imhoff} (2019)  Drying of fecal sludge in 3D laminate enclosures for urban waste management, *Science of the Total Environment*, DOI: 10.1016/j.scitotenv.2019.03.487.
 
-* Frank MR, Obradovich N, Sun L, Woon WL, LeVeck BL, Rahwan I (2018) Detecting reciprocity at global scale. Science Advances 4(1):eaao5348. (doi:[10.1126/sciadv.aao5348](http://dx.doi.org/10.1126/sciadv.aao5348)) <!--[[pdf](../files/papers/2018-SA-Reciprocity.pdf)]-->
+* Saxena, S., Ebrazibakhshayesh, B., Dentel, S.K., Imhoff, P.T., and D.K. Cha (2019)  In-situ drying of fecal sludge in breathable membrane-lined collection containers, *Journal of Water, Sanitation and Hygiene for Development*, DOI: 10.2166/washdev.2019.095.
 
-* Frank MR, Sun L, Cebrian M, Youn HJ, Rahwan I (2018) Small cities face greater impact from automation. Journal of the Royal Society Interface 15 (139):20170946. (doi:[10.1098/rsif.2017.0946](http://dx.doi.org/10.1098/rsif.2017.0946)) <!--[[pdf](../files/papers/2018-RSInterface-City.pdf)]-->
+* Nakhli, S.A.A.,  Panta, S., Brown, J.D., Tian, J. and P.T. Imhoff (2019) Quantifying biochar content in a field soil with varying organic matter content using a two-temperature loss on ignition method, *Science of the Total Environment*, DOI: 10.1016/j.scitotenv.2018.12.174
 
-* Sun L, Rahwan I (2017) Coauthorship network structure in transportation research. Transportation Research Part A: Policy and Practice 100:135-151. (doi:[10.1016/j.tra.2017.04.011](http://dx.doi.org/10.1016/j.tra.2017.04.011)) <!--[[pdf](../files/papers/2017-TRA-Coauthor.pdf)]-->
+* Tian, J., Jin, J., Chiu, P.C., Cha, D.K., Guo, M., and P.T. Imhoff (2019) A pilot-scale, bi-layer bioretention system with biochar and zero-valent iron for enhanced nitrate removal from stormwater, *Water Research*, DOI: 10.1016/j.watres.2018.10.030.
 
-* Sun L, Yin Y (2017) Discovering themes and trends in transportation research using topic modeling. Transportation Research Part C: Emerging Technology 77:49-66. (doi:[10.1016/j.trc.2017.01.013](http://dx.doi.org/10.1016/j.trc.2017.01.013)) <!--[[pdf](../files/papers/2017-TRC-Topics.pdf)]-->
+* Bakhshayesh, B.E., Imhoff, P. T., and S.K. Dentel  (2018) Assessing clogging of laminated hydrophobic membrane during fecal sludge drying, *Science of the Total Environment*,  DOI: 10.1016/j.scitotenv.2018.01.209.
 
-
-* Sun L, Axhausen KW (2016) Understanding urban mobility patterns with a probabilistic tensor factorization framework. Transportation Research Part B: Methodological 91:511-524. (doi:[10.1016/j.trb.2016.06.011](http://dx.doi.org/10.1016/j.trb.2016.06.011)) [[Code](https://github.com/lijunsun/probabilistic_tucker_transport)] <!--[[pdf](../files/papers/2016-TRB-Tensor.pdf)]-->
-
-* Tirachini A, Sun L, Erath A, Chakirov A (2016) Valuation of sitting and standing in metro trains using revealed preferences. Transport Policy 47:94-104. (doi:[10.1016/j.tranpol.2015.12.004](http://dx.doi.org/10.1016/j.tranpol.2015.12.004)) <!--[[pdf](../files/papers/2016-TP-Crowding.pdf)]-->
-
-* Jin JG, Lu L, Sun L,Yin J (2015) Optimal allocation of protective resources in urban rail transit networks against intentional attacks. Transportation Research Part E: Logistics and Transportation Review 84:73-87. (doi:[10.1016/j.tre.2015.10.008](http://dx.doi.org/10.1016/j.tre.2015.10.008)) <!--[[pdf](../files/papers/2015-TRE-Resilience.pdf)]-->
-
-* Sun L, Erath A (2015) A Bayesian network approach for population synthesis. Transportation Research Part C: Emerging Technologies 61:49-62. (doi:[10.1016/j.trc.2015.10.010](http://dx.doi.org/10.1016/j.trc.2015.10.010)) <!--[[pdf](../files/papers/2015-TRC-BN-Population.pdf)]-->
-
-* Long Y, Sun L, Tao S (2015) A review of urban studies based on transit smart card data. Urban Planning Forum 223:70-77. (in Chinese) (doi:[10.16361/j.upf.201503009](http://dx.doi.org/10.16361/j.upf.201503009)) <!--[[pdf](../files/papers/2015-UP-SCD.pdf)]-->
-
-* Sun L, Lu Y, Jin JG, Lee D-H, Axhausen KW (2015) An integrated Bayesian approach for passenger flow assignment in metro networks. Transportation Research Part C: Emerging Technologies 52:116-131. (doi:[10.1016/j.trc.2015.01.001](http://dx.doi.org/10.1016/j.trc.2015.01.001)) [[Code](https://github.com/lijunsun/MetroAssignment)] <!--[[pdf](../files/papers/2015-TRC-Metro.pdf)]-->
-
-* Sun L, Jin JG, Axhausen KW, Lee D-H, Cebrian M (2015) Quantifying long-term evolution of intraurban spatial interactions. Journal of the Royal Society Interface 12:20141089. (doi:[10.1098/rsif.2014.1089](http://dx.doi.org/10.1098/rsif.2014.1089)) <!--[[pdf](../files/papers/2015-RSInterface-Spatial.pdf)]-->
-
-* Sun L, Tirachini A, Axhausen KW, Erath A, Lee D-H (2014) Models of bus boarding and alighting dynamics. Transportation Research Part A: Policy and Practice 69:447-460. (doi:[10.1016/j.tra.2014.09.007](http://dx.doi.org/10.1016/j.tra.2014.09.007)) <!--[[pdf](../files/papers/2014-TRA-Dwell.pdf)]-->
-
-* Sun L, Axhausen KW, Lee D-H, Cebrian M (2014) Efficient detection of contagious outbreaks in massive metropolitan encounter networks. Scientific Reports 4:5099. (doi:[10.1038/srep05099](http://dx.doi.org/10.1038/srep05099)) <!--[[pdf](../files/papers/2014-SR-Epdemics.pdf)]-->
-
-* Sun L, Jin JG, Lee D-H, Axhausen KW, Erath A (2014) Demand-driven timetable design for metro services. Transportation Research Part C: Emerging Technologies 46:284-299. (doi:[10.1016/j.trc.2014.06.003](http://dx.doi.org/10.1016/j.trc.2014.06.003)) <!--[[pdf](../files/papers/2014-TRC-Timetable.pdf)]-->
-
-
-* Jin JG, Tang LC, Sun L, Lee D-H (2014) Enhancing metro network resilience via localized integration with bus services. Transportation Research Part E: Logistics and Transportation Review 63:17-30. (doi:[10.1016/j.tre.2014.01.002](http://dx.doi.org/10.1016/j.tre.2014.01.002)) <!--[[pdf](../files/papers/2014-TRE-Resilience.pdf)]-->
-
-
-* Sun L, Axhausen KW, Lee D-H, Huang X (2013) Understanding metropolitan patterns of daily encounters. Proceedings of the National Academy of Sciences of the United States of America (PNAS) 110(34):13774-13779. (doi:[10.1073/pnas.1306440110](http://dx.doi.org/10.1073/pnas.1306440110)) <!--[[pdf](../files/papers/2013-PNAS-Encounter.pdf)]-->
-
-
-* Lee D-H, Wu X, Sun L (2013) Limited information-sharing strategy for the taxi-customer searching problem in the non-booking taxi services. Transportation Research Record: Journal of the Transportation Research Board. 2284:57-61. (doi:[10.3141/2333-06](http://dx.doi.org/10.3141/2333-06)) <!--[[pdf](../files/papers/2013-TRR-Taxi.pdf)]-->
+* Taylor, D.M., Chow, F.K., Delkash, M., and P.T. Imhoff} (2018) Atmospheric modeling to assess wind dependence in tracer dilution method measurements of landfill methane emissions, *Waste Management*, DOI: 10.1016/j.wasman.2017.10.036.
 
 
 
-Conference Publications
+Recent Conference Publications
 ======
-* Sun L, Chen X, He Z, Miranda-Moreno LF (2019) Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Platt, K.L., Imhoff, P.T., DiToro, D., Carbonaro, R.F., Allen, H.E., Parkerton, T.F., and L.J. Eastcott (2020) Enhanced Evaporative Flux to Remediate Soils Contaminated with Produced Water Brine, SETAC North America 41st Annual Meeting, Virtual.
 
-* Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (2019) Characterizing day-to-day airport delay profiles with a network approach. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Thorpe, M.J., Kreitinger, A.T.,  Imhoff, P.T., and R. Yazdani (2020) Drone-Based Gas Mapping LiDAR for Methane Concentration Mapping and Whole Landfill Emissions Monitoring, Global Waste Management Symposium 2020, Indian Wells, CA.
 
-* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (2019) A propagation index on airport delays. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Imhoff, P.T., Akpinar, D., Tian, W., Cargill, S. and S. Chowdhury (2020) Enhancement of Bioretention Media Through Biochar Amendment, 2020 Transportation Research Board Annual Meeting, January, Washington, DC (INVITED).
 
-* Gao J, Sun L, Cai M (2019) Measuring privacy vulnerability of individual mobility traces: a case study on license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+* Williams, R., Noe, E., Nakhli, S.A.A., Brown, J.D., and P.T. Imhoff (2019) Evaluating Causes of Enhanced Soil Aggregation in Biochar-Amended Roadway Soils, 2019 Fall Meeting of the American Geophysical Union, San Francisco, CA.
 
-* Sun L, Jin JG (2015) Modeling temporal flow assignment in metro networks using smart card data. 18th IEEE International Conference on Intelligent Transportation Systems (Las Palmas de Gran Canaria, Spain). (doi:[10.1109/ITSC.2015.141](http://dx.doi.org/10.1109/ITSC.2015.141))
+* Brown, J.D., Imhoff, P.T., Trout, L., Hegberg, C., and S.A.A. Nakhli (2019) A Field Study of Biochar Amended Soils: Water Retention, Infiltration and Nutrient Removal from Storm Water Runoff, Delaware Estuary Science and Environmental Summit, DE.
 
-* Sun L, Lu Y, Lee D-H (2015) Understanding the structure of urban bus networks: the C-space representation approach. 15th COTA International Conference of Transportation Professionals (Beijing, China). (doi:[10.1061/9780784479292.143](http://dx.doi.org/10.1061/9780784479292.143))
+* Platt, K., Imhoff, P.T., DiToro, D., Allen, H., and R. Carbonaro (2019) DENIN Graduate Research Symposium, Enhanced Evaporative Flux to Remediate Soils Contaminated with Fracking Brine, Newark, DE.
 
-* Zhao K, Sun L, Jin JG, Lee D-H (2015) Analysis of crowding effect on passengers’ movement time based on smart card data. 15th COTA International Conference of Transportation Professionals (Beijing, China). (doi:[10.1061/9780784479292.136](http://dx.doi.org/10.1061/9780784479292.136))
+* Derya, A., Tian, J., Cargill, S., Chiu, P., Guo, M., and {P.T. Imhoff (2019) DENIN Grand Challenges in Water Sustainability: Future of Water in the Mid-Atlantic: Agriculture, Restoration and Technology, Biochar Amendment for Nitrate Treatment in Stormwater, Avondale, PA.
 
-* Sun L, Jin JG, Lee D-H, Axhausen KW (2015) Characterizing multimodal transfer time using smart card data: the effect of time, passenger age, crowdedness and collective pressure. Transportation Research Board (TRB) 94th Annual Meeting (Washington, DC, USA).
+* Imhoff, P.T.,  Brown, J.D., Panta, S., Nakhli, S., Yudi, Y., Chapman, C., Saquing, J., Chiu, P., Maresca, J., Hegberg, C., and L. Trout (2019) Reducing Stormwater Runoff with Biochar, 19th Southern School on Chemistry and Engineering Conference, Newark, DE.  (INVITED)
 
-* Jin JG, Teo KM, Sun L (2013) Disruption response planning for an urban Mass Rapid Transit network. Transportation Research Board (TRB) 92nd Annual Meeting (Washington DC, USA).
+* Imhoff, P.T.,  Brown, J.D., Panta, S., Nakhli, S., Yudi, Y., Chapman, C., Saquing, J., Chiu, P., Maresca, J., Hegberg, C., Trout, L., and S. Finsterle (2019) Reducing Stormwater Runoff with Biochar, Biochar Symposium 2019, National Chiao Tung University, Hsinchu City, Taiwan. (INVITED)
 
-* Lee D-H, Wu X, Sun L (2013) Limited information sharing strategy for the taxi-customer searching problem in the non-booking taxi service. Transportation Research Board (TRB) 92nd Annual Meeting (Washington DC, USA).
+* Nakhli, S.A.A. and P.T. Imhoff (2019) Advancing Models to Predict Influence of Biochar Macro, Meso, and Micro Pores on Water Characteristic Curves of Biochar-Amended Soils of Different Texture, The Soil Science Society of America International Soils Meeting, San Diego, CA.
 
-* Sun L, Lee D-H, Erath A, Huang X (2012) Using smart card data to extract passenger’s spatio-temporal density and train’s trajectory of MRT system. ACM SIGKDD International Workshop on Urban Computing (Beijing, China). (doi:[10.1145/2346496.2346519](http://dx.doi.org/10.1145/2346496.2346519))
+* Nakhli, S.A.A.,  Brown$,  Yudi, Y., Finsterle, S., Hegberg, C., and P.T. Imhoff (2019) Biochar-amended Media for Enhanced Runoff Reduction in Stormwater Facilities, ASCE World Environmental & Water Resources Congress 2019, Pittsburgh, PA.
 
-* Lee D-H, Sun L, Erath A (2012) Study of bus service reliability in Singapore using fare card data. 12th Asia Pacific ITS Forum & Exhibition (Kuala Lumpur, Malaysia).
+* {Imhoff, P.T.,  Brown, J.D., Mehta, K., Akpinar, D., Tian, J., Chowdhury, S., Anderson, K., Chiu, P., Hegberg, C., Trout, L., and L. Lilly (2019) Recent Advances in Biochar Application for Stormwater, 9th Annual Bay-Wide Stormwater Retreat, March, Shepherdstown, WV. (INVITED)
 
-* Sun L, Chen X, Xie W, Yang X (2010) Calibration of acceleration-based and multi-anticipative car-following models by NGSIM trajectory data. 10th ASCE International Conference of Chinese Transportation Professionals, ICCTP 2010 (Beijing, China)
+* Tian, J., Cargill, S., Chiu, P.C., Guo, M., and P.T. Imhoff (2018) Biochar amendment in bioretention filter media for enhanced stormwater treatment, United States Biochar Initiative Biochar 2018, Wilmington, DE.
+
+* Brown, J., Panta, S., Hegberg, C., Trout, L., Tian, J., Nakhli, S.A.A., and P.T. Imhoff} (2018) A Field Study of Biochar Amended Soils: Water Retention, Infiltration and Nutrient Removal from Stormwater Runoff, United States Biochar Initiative Biochar 2018, Wilmington, DE.
+
+* Yi, S., Wong, E., and P.T. Imhoff} (2018) The Effects of Biochar Interpores and Intrapores on Soil-gas Transport, United States Biochar Initiative Biochar 2018, Wilmington, DE.
+
+* Nakhli, S.A.A., and P.T. Imhoff} (2018) Predicting Impact of Biochar on Soil Water Retention, United States Biochar Initiative Biochar 2018, Wilmington, DE.
+
+* Yan, Y., Nakhli, S.A.A., Jin, J. Imhoff, P.T., and D. R. Legates (2018) Predicting Impact of Biochar on Saturated Hydraulic conductivity of Natural and Engineered Media, Fall Meeting of the American Geophysical Union.
+
+* Ebrazi, B. and P.T. Imhoff (2018) CFD Simulation of Decentralized Breathable-Membrane Toilets to Improve Disposal of Fecal Sludge in Developing Countries, Delaware Environmental Institute Spring Research Symposium.
+
+* Chapman, C., Nakhli, S., Brown, J., Maresca, J.A., and P.T. Imhoff (2018) Biochar Amendment to Roadway Soils for Stormwater Treatment – Role of Soil Aggregation, Delaware Environmental Institute Spring Research Symposium.
+
+* Tian, J., Akpinar, D. Cargill, S., and P.T. Imhoff (2018) Evaluation of Biochar on Plant Growth and Nutrient Removal in DNREC Approved Bioretention Medium, Delaware Department of Transportation Research Symposium, Dover, DE.
+
+* Delkash, M.,  Legates, D., Xu, L., Taylor, D., Chow, F., Browne, J., and P.T. Imhoff (2018) Diurnal Landfill Methane Emission Variations, Global Waste Management Symposium 2018, Indian Wells, CA.
+
+* Imhoff, P.T., Taylor, D., Delkash, M., and F. Chow (2018) Modeling to Assess Atmospheric Effects on Tracer Dilution Method Measurements of Landfill Methane Emissions, Global Waste Management Symposium 2018, Indian Wells, CA.
+
+* Imhoff, P.T. ,Brown, J.D., Panta, S., Nakhli, S.,Yan, Chapman, C., Yan, Y., Saquing, J., Chiu, P., Maresca, J.,  Hegberg, C., and L. Trout (2018) Reducing Roadway Runoff Volume \& Nutrient Load with Biochar, 2018 Transportation Research Board Annual Meeting, January, Washington, DC (INVITED)
