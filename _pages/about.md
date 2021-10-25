@@ -19,7 +19,7 @@ For Prospective Students
 
 * I am looking for 1-2 PhD students for 2022 Fall (starts in August/September) who are interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. If you're interested, please send me an email or apply through the [UD Graduate Applications](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) system. Please use "Prospective PhD student [Your name]" as your email subject and attach your CV, a brief research statement (one page or less), and transcripts. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
 
-Graduate Program to Apply Under:
+Graduate Program to Apply Under
 ===
 * I have advised graduate students concentrating in environmental engineering or water resources engineering within the [Department of Civil and Environmental Engineering at the University of Delaware](https://ce.udel.edu/academics/graduate/). I have recently advised graduate students in the [Interdisciplinary Program in Water Science and Policy](https://www.udel.edu/academics/colleges/canr/departments/plant-and-soil-sciences/graduate-programs/water-science-policy/), where I now serve as Assistant Director. Depending on a student's background and interests, you may apply to any of these programs to work under my direction.
 
