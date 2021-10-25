@@ -50,7 +50,7 @@ carbon (biochar) and biochar‐amended soil at low water contents, *Water Resour
 
 
 
-Recent Conference Publications
+Recent Conference Presentations
 ======
 * Platt, K.L., Imhoff, P.T., DiToro, D., Carbonaro, R.F., Allen, H.E., Parkerton, T.F., and L.J. Eastcott (2020) Enhanced Evaporative Flux to Remediate Soils Contaminated with Produced Water Brine, SETAC North America 41st Annual Meeting, Virtual.
 
