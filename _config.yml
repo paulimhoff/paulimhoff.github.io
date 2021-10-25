@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Paul Imhoff"
-  avatar           : "imhoff.jpg"
+  avatar           : "imhoff.jpeg"
   bio              : |
     Professor <br>
     Civil and Environmental Engineering <br>
@@ -92,7 +92,7 @@ author:
   location         : "Newark, Delaware"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DnN8aCQAAAAJ&hl=en&oi=sra"
-  email            : "imhoff[at]udel.edu"
+  email            : "imhoff@udel.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "paulimhoff"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
