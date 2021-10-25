@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lijun Sun - Homepage"
+title                    : "Paul Imhoff - Homepage"
 title_separator          : "-"
-name                     : &name "Lijun Sun"
-description              : &description "Assistant Professor"
-description              : &description "Civil Engineering | McGill University"
-url                      : https://lijunsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Paul Imhoff"
+description              : &description "Professor"
+description              : &description "Civil and Environmental Engineering | University of Delaware"
+url                      : https://paulimhoff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lijunsun/lijunsun.github.io"
+repository               : "paulimhoff/paulimhoff.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,20 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Lijun Sun"
-  avatar           : "sun.jpg"
+  name             : "Dr. Paul Imhoff"
+  avatar           : "imhoff.jpg"
   bio              : |
-    Assistant Professor <br>
-    Civil Engineering <br>
-    McGill University <br>
+    Professor <br>
+    Civil and Environmental Engineering <br>
+    University of Delaware <br>
     <br>
-    817 Sherbrooke St. W. <br>
-    Macdonald ENG BLDG 278C <br>
-    Montreal, QC H3A 0C3, Canada <br>
-  location         : "Montreal, Canada"
+    344A DuPont Hall <br>
+    Newark, Delaware 19716 <br>
+  location         : "Newark, Delaware"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=qi4IEtkAAAAJ"
-  email            : "lijun.sun[at]mcgill.ca"
+  googlescholar    : "https://scholar.google.com/citations?user=DnN8aCQAAAAJ&hl=en&oi=sra"
+  email            : "imhoff[at]udel.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,19 +100,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lijunsun"
+  github           : "paulimhoff"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "lijun-sun-8101a716"
-  orcid            : "https://orcid.org/0000-0001-9488-0712"
+  linkedin         : 
+  orcid            : 
   pinterest        : 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lijunsun0"
+  twitter          : 
   vine             : 
   weibo            :
   xing             :
