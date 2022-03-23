@@ -19,6 +19,7 @@ Education
 
 Research Areas
 ====
-* Environmental and Water Resources
-* Sustainability
-* Water
+* Biochar applications for stormwater management
+* Measurement and modeling of fugitive greenhouse gas emissions from landfills
+* Groundwater and soil remediation
+* Advancing breathable membrane toilets for urban areas in developing countries
