@@ -15,8 +15,6 @@ My research focus is the movement of fluids and mass transfer processes in porou
 
 For Prospective Students
 ======
-* I am looking for one motivated MS student to start in 2022 Winter (starts in January/February) to work on a project evaluating diurnal variations of methane emissions from landfills. This project is a collaboration with faculty from the University of California-Davis and the University of Southampton (UK) and will involve data analysis and mathematical modeling. If you're interested, please send me an email or apply through the [UD Graduate Applications](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) system. Please use "Prospective Grad student [Your name]" as your email subject and attach your CV, a brief research statement (one page or less), and transcripts. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
-
 * I am looking for 1-2 PhD students for 2022 Fall (starts in August/September) who are interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. If you're interested, please send me an email or apply through the [UD Graduate Applications](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) system. Please use "Prospective PhD student [Your name]" as your email subject and attach your CV, a brief research statement (one page or less), and transcripts. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
 
 Graduate Program to Apply Under
