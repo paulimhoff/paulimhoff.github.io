@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](https://github.com/paulimhoff/paulimhoff.github.io/blob/master/pti_cv_9-21-2022.pdf)
+* [CV in PDF](pti_cv_9-21-2022.pdf)
 
 Education
 ======
