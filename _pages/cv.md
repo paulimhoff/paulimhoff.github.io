@@ -8,11 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](https://ce.udel.edu/wp-content/uploads/formidable/10/Imhoff2021.pdf)
+* [CV in PDF](https://github.com/paulimhoff/paulimhoff.github.io/blob/master/files/pti_cv_9-21-2022.pdf)
 
 Education
 ======
-* 1992 : Ph.D  Princeton University
+* 1992 : Ph.D.  Princeton University
 * 1988 : M.A Princeton University
 * 1986 : M.S University of Wisconsin - Madison
 * 1983 : B.S. University of Cincinnati
