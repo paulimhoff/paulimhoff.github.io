@@ -6,7 +6,7 @@ author_profile: true
 
 ##
 While not everyone, this is some of the group at lunch celebrating the end of summer.
-![image](/images/lunch_photo_beka_ahlstrom.jpg)
+![image](<img width=”250" height=”400" /images/lunch_photo_beka_ahlstrom.jpg)
 
 <img width=”250" height=”400" src=”/images/lunch_photo_beka_ahlstrom.jpg" />
 
