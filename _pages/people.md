@@ -4,6 +4,9 @@ permalink: /people/
 author_profile: true
 ---
 
+##
+While not everyone, this is some of the group at lunch celebrating the end of summer.
+![image](/assets/images/lunch_photo_beka_ahlstrom.jpg)
 
 Current students and postdocs at the University of Delaware.
 
