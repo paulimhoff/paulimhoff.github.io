@@ -7,20 +7,22 @@ author_profile: true
 
 Current students and postdocs at the University of Delaware.
 
+## Post Doctoral Researcher
+* Derya Akpinar (2023.7 -)
+  
+## Staff Researcher
+* Marcus Bowser (2023.7 -)
+  
 ## PhD Students
-* Derya Akpinar (2017.9-)  
 * Jason Geiger (2021.9-, co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12))
-* Nana Abena Osei Tutu (2022.1-)
 * Simanta Azad (2022.9-, co-supervised with [Prof. Jules Bruck, University of Florida](https://dcp.ufl.edu/faculty/landscapearchitecture/))
 
 ## Master Students
-* Marcus Bowser (2020.8-, co-supervised with [Prof. Erik Ervin, Dept. of Plant and Soil Sciences](https://www.udel.edu/academics/colleges/canr/departments/plant-and-soil-sciences/faculty-staff/erik-ervin/))
+* Nana Abena Osei Tutu (2022.1-)
 
 ## Undegraduate Students
-* Andrew Blacburn (2021.6-), Undergraduate research
-* Shivam Chauhan (2021.6-), Undergraduate research
-* Holly Cobb (2022.9-, Senior Thesis co-supervised with [Prof. Richard Carbonaro, Manhattan College](https://manhattan.edu/campus-directory/richard.carbonaro))
-* Abbie Pierson (2022.9-), Undergraduate research
+* Harrison Fleetwood (2023.5- Senior Thesis, co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12) and [Prof. Richard Carbonaro](https://manhattan.edu/campus-directory/richard.carbonaro).)
+* Shivam Chauhan (2021.6-), Undergraduate research, Senior Project in Chemical Engineering
 * Mikayla Rypkema (2022.6-), Undergraduate research
-* Leslie Webb (2021.9-) Senior Thesis
+* Bradford Morgan (2024.1-), Undergraduate research
 
