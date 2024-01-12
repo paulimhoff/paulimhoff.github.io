@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](pti_cv_1-14-2023.pdf)
+* [CV in PDF](pti_cv_1-12-2023.pdf)
 
 Education
 ======
