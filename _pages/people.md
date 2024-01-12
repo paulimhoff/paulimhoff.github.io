@@ -19,6 +19,7 @@ Current students and postdocs at the University of Delaware.
 
 ## Master Students
 * Nana Abena Osei Tutu (2022.1-)
+* John Mosel (2023.9-)
 
 ## Undegraduate Students
 * Harrison Fleetwood (2023.5- Senior Thesis, co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12) and [Prof. Richard Carbonaro](https://manhattan.edu/campus-directory/richard.carbonaro).)
