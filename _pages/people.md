@@ -7,7 +7,7 @@ author_profile: true
 ##
 While not everyone, this is some of the group at lunch celebrating the end of summer.
 
-<img src="/images/lunch_photo_beka_ahlstrom.jpg" width="100" height="100">
+<img src="/images/lunch_photo_beka_ahlstrom.jpg" width="400" >
 
 Current students and postdocs at the University of Delaware.
 
