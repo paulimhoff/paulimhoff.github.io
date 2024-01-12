@@ -21,9 +21,13 @@ Recent Journal Publications
 
 The list is not frequently updated. Please see Google Scholar for recent updates.
 
+* Akpinar, D, Chowdhury, S., Tian, J., Guo, Mingxin, Barton, S., and P.T. Imhoff (2023) Understanding a wood-derived biochar’s impact on stormwater quality, plant growth, and survivability in bioretention soil mixtures, *Journal of Environmental Management*, DOI: 10.1016/j.jenvman.2023.119359.
+
+* Akpinar, D, Tian, J., Shepherd, E., and P.T. Imhoff (2023) Impact of wood-derived biochar on the hydrologic performance of bioretention media: Effects on aggregation, root growth, and water retention, *Journal of Environmental Management*, DOI: 10.1016/j.jenvman.2023.117864.
+
 * Platt, K.L., Di Toro, D.M., Carbonaro, R.F., Bugher, N.A., Parkerton, T.F., Eastcott, L.J., and P.T. Imhoff (2022) Ferroccyanide enhanced evaporative flux to remediate soils contaminated with produced water brine, *Journal of Hazardous Materials*, DOI: 10.1016/j.jhazmat.2022.130028
 
-* Sherman, M., Hripto, J., Peck, E.K., Gold, A.J., Peipoch, M., Imhoff, P., and S. Inamdar (2022) Backed-up, Saturated, and Stagnant: Effect of Milldams on Upstream Riparian Groundwater Hydrologic and Mixing Regimes, *Water Resources Research*, accepted.
+* Sherman, M., Hripto, J., Peck, E.K., Gold, A.J., Peipoch, M., Imhoff, P., and S. Inamdar (2022) Backed-up, Saturated, and Stagnant: Effect of Milldams on Upstream Riparian Groundwater Hydrologic and Mixing Regimes, *Water Resources Research*, DOI: 10.1029/2022WR033038.
 
 * Delkash, M.N.A., Chow, F.K., and P.T. Imhoff} (2022) Diurnal landfill methane flux patterns across different seasons at a landfill in Southeastern US, *Waste Management*, DOI: 10.1016/j.wasman.2022.03.004
 
@@ -59,13 +63,26 @@ carbon (biochar) and biochar‐amended soil at low water contents, *Water Resour
 Recent Conference Presentations
 ======
 
+* Delkash, M., Aivazian, G., Yazdani, R., Imhoff, P.T., and M. Thorpe (2023) Application of a Novel Airborne LiDAR Measurement to Quantify Landfill Methane Emissions and Leak Locations, AWMA Air Quality Measurement Specialty Conference, Durham, NC.
+
+* Yazdani, R., Karimi, S., P.T. Imhoff, Delkash, M., Kunkel, M., Thorpe, M., Knipping, E., and S. Shaw (2023) Advanced Quantification of Methane Emissions Using UAV Curtain Flux Method and Comparison with Flux Chamber Method, AWMA Air Quality Measurement Specialty Conference, Durham, NC.
+
 * Delkash, M.N.A., Chow, F.K., and P.T. Imhoff (2021) Diurnal landfill methane flux patterns across different seasons at a landfill in Southeastern US - Measurement and Modeling, 2021 Fall Meeting of the American Geophysical Union, New Orleans, LA.
+
+* Imhoff, P.T., Delkash, M., Chow, J.K., Taylor, D.M., Golbazi, M., and R. Yazdain (2023) The Effect of Atmospheric Conditions on Fugitive Landfill Gas Emissions – Implications for Measurement and Modeling, EREF Summit on Quantification of Landfill Emissions, Chicago, IL (INVITED).
+
+* Webb, L., Akpinar, D., and P.T. Imhoff (2022) Enhancement of Infiltration in Compacted Urban Soil with Biochar Amendment, 2022 EWRI ASCE Conference, Atlanta, GA.
+
+* Akpinar, D., Tian, J. Chowdhury, S., and P.T. Imhoff (2022) Impact of Biochar Amendment on Plant Growth and Plant Traits that Enhance Nutrient Removal in
+Bioretention Systems, 2022 EWRI ASCE Conference, Atlanta, GA.
+
+* Nakhli, S.A. and P.T. Imhoff (2022) Biochar for roadways stormwater runoff reduction: how and when it works, 2022 EWRI ASCE Conference, Atlanta, GA.
+
+* Imhoff, P.T., Kunkel, M., Thorpe, M., Delkash, M., and R. Yazdani (2022) Comparison of Gas Mapping Lidar with EPA Method 21 Surface Scans for Locating and Quantifying Fugitive Methane Releases, Intercontinental Landfill Research Symposium, Asheville, NC.
 
 * Akpinar, D., Shepherd, E., Tian, J. and P.T. Imhoff (2021) Impact of a Wood-Derived Biochar on The Performance of Bioretention Media: Effects on Plant Growth, Soil Structure, and Soil Hydrology, 2021 Fall Meeting of the American Geophysical Union, New Orleans, LA.
 
 * Shaw, S.L., Aivazian, G., El-Mashad, H., Imhoff, P.T., Knipping, E., Mitloehner, F., Thorpe, M., Yazdani, R., and Y. Zhao, Characterizing Emissions from California Biomethane Facilities, 2021 Fall Meeting of the American Geophysical Union, New Orleans, LA (INVITED).
-
-* Imhoff, P.T. (2021) Ethics - Case Studies, 2021 Roadway Management Conference, Rehoboth Beach, DE (INVITED).
 
 * Akpinar, D. and P.T. Imhoff (2021) DENIN Graduate Research Symposium, Impact of biochar on plant growth and plant traits that enhance nutrient removal from stormwater in bioretention systems, Virtual.
 
@@ -79,21 +96,6 @@ Recent Conference Presentations
 
 * Imhoff, P.T., Akpinar, D., Tian, W., Cargill, S. and S. Chowdhury (2020) Enhancement of Bioretention Media Through Biochar Amendment, 2020 Transportation Research Board Annual Meeting, January, Washington, DC (INVITED).
 
-* Williams, R., Noe, E., Nakhli, S.A.A., Brown, J.D., and P.T. Imhoff (2019) Evaluating Causes of Enhanced Soil Aggregation in Biochar-Amended Roadway Soils, 2019 Fall Meeting of the American Geophysical Union, San Francisco, CA.
 
-* Brown, J.D., Imhoff, P.T., Trout, L., Hegberg, C., and S.A.A. Nakhli (2019) A Field Study of Biochar Amended Soils: Water Retention, Infiltration and Nutrient Removal from Storm Water Runoff, Delaware Estuary Science and Environmental Summit, DE.
 
-* Platt, K., Imhoff, P.T., DiToro, D., Allen, H., and R. Carbonaro (2019) DENIN Graduate Research Symposium, Enhanced Evaporative Flux to Remediate Soils Contaminated with Fracking Brine, Newark, DE.
-
-* Derya, A., Tian, J., Cargill, S., Chiu, P., Guo, M., and {P.T. Imhoff (2019) DENIN Grand Challenges in Water Sustainability: Future of Water in the Mid-Atlantic: Agriculture, Restoration and Technology, Biochar Amendment for Nitrate Treatment in Stormwater, Avondale, PA.
-
-* Imhoff, P.T.,  Brown, J.D., Panta, S., Nakhli, S., Yudi, Y., Chapman, C., Saquing, J., Chiu, P., Maresca, J., Hegberg, C., and L. Trout (2019) Reducing Stormwater Runoff with Biochar, 19th Southern School on Chemistry and Engineering Conference, Newark, DE.  (INVITED)
-
-* Imhoff, P.T.,  Brown, J.D., Panta, S., Nakhli, S., Yudi, Y., Chapman, C., Saquing, J., Chiu, P., Maresca, J., Hegberg, C., Trout, L., and S. Finsterle (2019) Reducing Stormwater Runoff with Biochar, Biochar Symposium 2019, National Chiao Tung University, Hsinchu City, Taiwan. (INVITED)
-
-* Nakhli, S.A.A. and P.T. Imhoff (2019) Advancing Models to Predict Influence of Biochar Macro, Meso, and Micro Pores on Water Characteristic Curves of Biochar-Amended Soils of Different Texture, The Soil Science Society of America International Soils Meeting, San Diego, CA.
-
-* Nakhli, S.A.A.,  Brown$,  Yudi, Y., Finsterle, S., Hegberg, C., and P.T. Imhoff (2019) Biochar-amended Media for Enhanced Runoff Reduction in Stormwater Facilities, ASCE World Environmental & Water Resources Congress 2019, Pittsburgh, PA.
-
-* {Imhoff, P.T.,  Brown, J.D., Mehta, K., Akpinar, D., Tian, J., Chowdhury, S., Anderson, K., Chiu, P., Hegberg, C., Trout, L., and L. Lilly (2019) Recent Advances in Biochar Application for Stormwater, 9th Annual Bay-Wide Stormwater Retreat, March, Shepherdstown, WV. (INVITED)
 
