@@ -4,11 +4,6 @@ permalink: /people/
 author_profile: true
 ---
 
-##
-While not everyone, this is some of the group at lunch celebrating the end of summer.
-
-<img src="/images/lunch_photo_beka_ahlstrom.jpg" width="400" >
-
 Current students and postdocs at the University of Delaware.
 
 ## Post Doctoral Researcher
@@ -30,4 +25,11 @@ Current students and postdocs at the University of Delaware.
 * Shivam Chauhan (2021.6-), Undergraduate research, Senior Project in Chemical Engineering
 * Mikayla Rypkema (2022.6-), Undergraduate research
 * Bradford Morgan (2024.1-), Undergraduate research
+
+##
+While not everyone, this is some of the group at lunch celebrating the end of summer.
+
+<img src="/images/lunch_photo_beka_ahlstrom.jpg" width="400" >
+
+
 
