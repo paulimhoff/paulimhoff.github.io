@@ -44,20 +44,6 @@ carbon (biochar) and biochar‐amended soil at low water contents, *Water Resour
 
 * Yi, S., Chang, N. Y., and P.T. Imhoff (2020) Predicting water retention of biochar-amended soil from independent measurements of biochar and soil properties, *Advances in Water Resources*, DOI: 10.1016/j.advwatres.2020.103638.
 
-* Bakhshayesh, B.E.,  Saxena, S., and P.T. Imhoff (2019) Understanding fecal sludge drying in membrane-lined container-based toilets for developing countries with CFD modeling, *Environmetal Science-Water Research & Technology*, DOI: 10.1039/c9ew00583h.
-
-* Saxena, S., Ebrazibakhshayesh, B., Dentel, S.K., Cha, D.K., and P.T. Imhoff} (2019)  Drying of fecal sludge in 3D laminate enclosures for urban waste management, *Science of the Total Environment*, DOI: 10.1016/j.scitotenv.2019.03.487.
-
-* Saxena, S., Ebrazibakhshayesh, B., Dentel, S.K., Imhoff, P.T., and D.K. Cha (2019)  In-situ drying of fecal sludge in breathable membrane-lined collection containers, *Journal of Water, Sanitation and Hygiene for Development*, DOI: 10.2166/washdev.2019.095.
-
-* Nakhli, S.A.A.,  Panta, S., Brown, J.D., Tian, J. and P.T. Imhoff (2019) Quantifying biochar content in a field soil with varying organic matter content using a two-temperature loss on ignition method, *Science of the Total Environment*, DOI: 10.1016/j.scitotenv.2018.12.174
-
-* Tian, J., Jin, J., Chiu, P.C., Cha, D.K., Guo, M., and P.T. Imhoff (2019) A pilot-scale, bi-layer bioretention system with biochar and zero-valent iron for enhanced nitrate removal from stormwater, *Water Research*, DOI: 10.1016/j.watres.2018.10.030.
-
-* Bakhshayesh, B.E., Imhoff, P. T., and S.K. Dentel  (2018) Assessing clogging of laminated hydrophobic membrane during fecal sludge drying, *Science of the Total Environment*,  DOI: 10.1016/j.scitotenv.2018.01.209.
-
-* Taylor, D.M., Chow, F.K., Delkash, M., and P.T. Imhoff} (2018) Atmospheric modeling to assess wind dependence in tracer dilution method measurements of landfill methane emissions, *Waste Management*, DOI: 10.1016/j.wasman.2017.10.036.
-
 
 
 Recent Conference Presentations
