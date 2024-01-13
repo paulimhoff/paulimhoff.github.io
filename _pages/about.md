@@ -20,6 +20,8 @@ I am seeking two full-time graduate students to work under my supervision:
   
 * MS or PhD student starting Fall 2024 interested in application of data analytics to assess emissions of methane from landfills, using data from satellites, drones, and fixed point sensors. This project is funded by the US EPA and is in collaboration with researchers at UC Berkeley and UC Davis. Please send me an email or apply through the [UD Graduate Applications](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) system. Please use "Prospective PhD student [Your name]" as your email subject and attach your CV and transcripts. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
 
+* Image illustrating landfill gas measurement data collected by research partners in the US EPA project <img src="/epa_proposal_fig1.jpg" width="300" >
+
 Graduate Program to Apply Under
 ===
 * I have advised graduate students concentrating in environmental engineering or water resources engineering within the [Department of Civil and Environmental Engineering at the University of Delaware](https://ce.udel.edu/academics/graduate/). I have recently advised graduate students in the [Interdisciplinary Program in Water Science and Policy](https://www.udel.edu/academics/colleges/canr/departments/plant-and-soil-sciences/graduate-programs/water-science-policy/), where I now serve as Associate Director. Depending on a student's background and interests, you may apply to any of these programs to work under my direction.
