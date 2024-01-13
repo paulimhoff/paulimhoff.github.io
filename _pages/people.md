@@ -29,7 +29,7 @@ Current students and postdocs at the University of Delaware.
 ##
 While not everyone, this is some of the group at lunch celebrating the end of summer (left) and Derya with a few students at her PhD defense (right).
 
-<img src="/images/lunch_photo_beka_ahlstrom.jpg" width="400" > <img src="/images/derya_phd_defense.jpg" width="400" >
+<img src="/images/lunch_photo_beka_ahlstrom.jpg" width="300" > <img src="/images/derya_phd_defense.jpg" width="300" >
 
 
 
