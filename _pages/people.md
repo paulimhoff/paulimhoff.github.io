@@ -18,6 +18,7 @@ Current students and postdocs at the University of Delaware.
 
 ## Master Students
 * Nana Abena Osei Tutu (2022.1-)
+* Jan Philip De Leon (2023.1-) non-thesis
 * John Mosel (2023.9-)
 
 ## Undegraduate Students
