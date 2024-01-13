@@ -20,7 +20,8 @@ I am seeking two full-time graduate students to work under my supervision:
   
 * MS or PhD student starting Fall 2024 interested in application of data analytics to assess emissions of methane from landfills, using data from satellites, drones, and fixed point sensors. This project is funded by the US EPA and is in collaboration with researchers at UC Berkeley and UC Davis. Please send me an email or apply through the [UD Graduate Applications](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) system. Please use "Prospective PhD student [Your name]" as your email subject and attach your CV and transcripts. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
 
-** Image illustrating landfill gas measurement data collected by research partners in the US EPA project. 
+Image illustrating landfill gas measurement data collected by research partners in the US EPA project. 
+
 <img src="/images/epa_proposal_fig1.jpg" width="400" >
 
 Graduate Program to Apply Under
