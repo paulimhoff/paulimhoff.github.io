@@ -16,7 +16,11 @@ My research focus is the movement of fluids and mass transfer processes in porou
 For Prospective Students
 ======
 I am seeking two full-time graduate students to work under my supervision:  
-* MS student starting Summer 2024 interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. This project is funded by the National Fish and Wildlife Foundation, Delaware Sea Grant, and the Maryland Transportation Authority. 
+* MS student starting Summer 2024 interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. This project is funded by the National Fish and Wildlife Foundation, Delaware Sea Grant, and the Maryland Transportation Authority.
+
+Graphical abstract from recent paper illustrating biochar impacts on plant growth, hydrology, and nutrient removal in bioretention media. 
+
+<img src="/images/derya_paper_graphical_abstract.jpg" width="400" >
   
 * MS or PhD student starting Fall 2024 interested in application of data analytics to assess emissions of methane from landfills, using data from satellites, drones, and fixed point sensors. This [project](https://www.epa.gov/newsreleases/epa-awards-46m-research-grants-quantify-and-mitigate-emissions-municipal-solid-waste) is funded by the US EPA and is in collaboration with researchers at UC Berkeley and UC Davis. 
 
