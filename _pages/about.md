@@ -24,9 +24,10 @@ Graphical abstract from recent paper illustrating biochar impacts on plant growt
 <img src="/images/derya_paper_graphical_abstract.jpg" width="400" >
 </p>
   
-* MS or PhD student starting Fall 2024 interested in application of data analytics to assess emissions of methane from landfills, using data from satellites, drones, and fixed point sensors. This [project](https://www.epa.gov/newsreleases/epa-awards-46m-research-grants-quantify-and-mitigate-emissions-municipal-solid-waste) is funded by the US EPA and is in collaboration with researchers at UC Berkeley and UC Davis. 
-
-Image illustrating landfill gas measurement data collected in the US EPA project. 
+* MS or PhD student starting Fall 2024 interested in application of data analytics to assess emissions of methane from landfills, using data from satellites, drones, and fixed point sensors. This [project](https://www.epa.gov/newsreleases/epa-awards-46m-research-grants-quantify-and-mitigate-emissions-municipal-solid-waste) is funded by the US EPA and is in collaboration with researchers at UC Berkeley and UC Davis.
+<ul>
+Image illustrating landfill gas measurement data collected in the US EPA project.
+</ul>
 <p align="center">
 <img src="/images/epa_proposal_fig1.jpg" width="400" >
 </p>
