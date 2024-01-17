@@ -13,8 +13,8 @@ Current students and postdocs at the University of Delaware.
 * Marcus Bowser (2023.7 -)
   
 ## PhD Students
-* Jason Geiger (2021.9-, co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12))
-* Simanta Azad (2022.9-, co-supervised with [Prof. Jules Bruck, University of Florida](https://dcp.ufl.edu/faculty/landscapearchitecture/))
+* Jason Geiger (2021.9 - ) co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12)
+* Simanta Azad (2022.9 - ) co-supervised with [Prof. Jules Bruck, University of Florida](https://dcp.ufl.edu/faculty/landscapearchitecture/)
 
 ## Master Students
 * Nana Abena Osei Tutu (2022.1-)
@@ -22,10 +22,13 @@ Current students and postdocs at the University of Delaware.
 * John Mosel (2023.9-)
 
 ## Undegraduate Students
-* Harrison Fleetwood (2023.5- Senior Thesis, co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12) and [Prof. Richard Carbonaro](https://manhattan.edu/campus-directory/richard.carbonaro).)
-* Shivam Chauhan (2021.6-), Undergraduate research, Senior Project in Chemical Engineering
-* Mikayla Rypkema (2022.6-), Undergraduate research
-* Bradford Morgan (2024.1-), Undergraduate research
+* Harrison Fleetwood (2023.5-) Senior Thesis, co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12) and [Prof. Richard Carbonaro](https://manhattan.edu/campus-directory/richard.carbonaro).)
+* Shivam Chauhan (2021.6-) Undergraduate research, Senior Project in Chemical Engineering
+* Mikayla Rypkema (2022.6-) Undergraduate research
+* Bradford Morgan (2024.1-) Undergraduate research
+
+## High School Student
+* Irwin Wang (2023.6-) AP Research project
 
 ##
 While not everyone, this is some of the group at lunch celebrating the end of summer (left) and Derya with a few students at her PhD defense (right).
