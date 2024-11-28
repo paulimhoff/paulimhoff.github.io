@@ -15,8 +15,8 @@ My research focus is the movement of fluids and mass transfer processes in porou
 
 For Prospective Students
 ======
-I am seeking two full-time graduate students to work under my supervision:  
-* MS student starting Summer 2024 interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. This project is funded by the National Fish and Wildlife Foundation, Delaware Sea Grant, and the Maryland Transportation Authority.
+I am seeking one full-time graduate students to work under my supervision:  
+* MS student starting Spring/Summer 2025 interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. This project is funded by the National Fish and Wildlife Foundation, Delaware Sea Grant, and the Maryland Transportation Authority.
 <ul>
 Graphical abstract from recent paper illustrating biochar impacts on plant growth, hydrology, and nutrient removal in bioretention media. 
 </ul>
@@ -24,14 +24,7 @@ Graphical abstract from recent paper illustrating biochar impacts on plant growt
 <img src="/images/derya_paper_graphical_abstract.jpg" width="400" >
 </p>
   
-* MS or PhD student starting Fall 2024 interested in application of data analytics to assess emissions of methane from landfills, using data from satellites, drones, and fixed point sensors. This [project](https://www.epa.gov/newsreleases/epa-awards-46m-research-grants-quantify-and-mitigate-emissions-municipal-solid-waste) is funded by the US EPA and is in collaboration with researchers at UC Berkeley and UC Davis.
-<ul>
-Image illustrating landfill gas measurement data collected in the US EPA project.
-</ul>
-<p align="center">
-<img src="/images/epa_proposal_fig1.jpg" width="400" >
-</p>
-If you're interested in either position, please send me an email or apply through the [UD Graduate Applications](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) system. Please use "Prospective PhD student [Your name]" as your email subject and attach your CV and transcripts. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
+If you're interested in this position, please send me an email or apply through the [UD Graduate Applications](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/) system. Please use "Prospective MS Biochar student [Your name]" as your email subject and attach your CV and transcripts. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
 
 Graduate Program to Apply Under
 ===
