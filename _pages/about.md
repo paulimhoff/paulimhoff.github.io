@@ -16,7 +16,7 @@ My research focus is the movement of fluids and mass transfer processes in porou
 For Prospective Students
 ======
 I am seeking one full-time graduate student to work under my supervision:  
-* MS student starting Spring/Summer 2025 interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. This project is funded by the National Fish and Wildlife Foundation, Delaware Sea Grant, and the Maryland Transportation Authority.
+* MS student starting Spring/Summer 2025 interested in applications of biochar to alter soil hydrology and nutrient fate in urban soils and living shorelines. This project is funded by the National Fish and Wildlife Foundation, Delaware Department of Transportation, and the Maryland Transportation Authority.
 <ul>
 Graphical abstract from recent paper illustrating biochar impacts on plant growth, hydrology, and nutrient removal in bioretention media. 
 </ul>
