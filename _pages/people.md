@@ -31,7 +31,7 @@ Current students and postdocs at the University of Delaware.
 ##
 While not everyone, this is some of the group at a breakfast celebrating the the graduation of Shivam Chauhan, an undergraduate student in Chemical Engineering who completed a Senior Project with us.
 
-<img src="/images/shivam_going_away_breakfast_journal_club.jpg" width="300" > 
+<img src="/images/shivam_going_away_breakfast_journal_club.jpg" width="600" > 
 
 
 
