@@ -4,14 +4,8 @@ permalink: /people/
 author_profile: true
 ---
 
-Current students and postdocs at the University of Delaware.
+Current students and research staff working with me at the University of Delaware.
 
-## Staff Researcher
-* John Mosel (2026.1 -)
-  
-## Research Assistant
-* Kimani Kamau (2025.2 -)
-  
 ## PhD Students
 * Jason Geiger (2021.9 - ) co-supervised with [Prof. Dominic Di Toro](https://ce.udel.edu/people/faculty-profile/?id=12)
 * Simanta Azad (2022.9 - ) co-supervised with [Prof. Jules Bruck, University of Florida](https://dcp.ufl.edu/faculty/landscapearchitecture/)
@@ -27,6 +21,13 @@ Current students and postdocs at the University of Delaware.
 * Kiera Heavey (2025.1 - ) Undergraduate researcher
 * Methuli Ratnayake (2026.1 - ) Undergraduate researcher
 
+## Staff Researcher
+* John Mosel (2026.1 -)
+  
+## Research Assistant
+* Kimani Kamau (2025.2 -)
+  
+
 
 ##
 While not everyone, this is some of the group at a breakfast celebrating the the graduation of Shivam Chauhan, an undergraduate student in Chemical Engineering who completed a Senior Project with us.
@@ -34,4 +35,12 @@ While not everyone, this is some of the group at a breakfast celebrating the the
 <img src="/images/shivam_going_away_breakfast_journal_club.jpg" width="600" > 
 
 
+##
+Photo of research team at 2026 Global Waste Management Symposium. Team includes faculty and students from the University of Delaware, the Univesity of California, Berkeley, and the Unversity of California, Davis.
 
+<img src="/images/research team.jpg" width="600" > 
+
+##
+Photo after John Mosel's MS Thesis defense. Faculty committee (Imhoff and Mijic) and fellow graduate students.
+
+<img src="/images/mosel_ms_defense.jpg" width="600" >
