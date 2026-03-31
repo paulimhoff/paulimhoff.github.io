@@ -29,18 +29,17 @@ Current students and research staff working with me at the University of Delawar
   
 
 
-##
+## Recent Photos
 While not everyone, this is some of the group at a breakfast celebrating the the graduation of Shivam Chauhan, an undergraduate student in Chemical Engineering who completed a Senior Project with us.
 
 <img src="/images/shivam_going_away_breakfast_journal_club.jpg" width="600" > 
 
 
-##
-Photo of research team at 2026 Global Waste Management Symposium. Team includes faculty and students from the University of Delaware, the Univesity of California, Berkeley, and the Unversity of California, Davis.
+Photo of research team at 2026 Global Waste Management Symposium. Team includes faculty and students from the University of Delaware, the University of California, Berkeley, and the Unversity of California, Davis.
 
 <img src="/images/research team.jpg" width="600" > 
 
-##
+
 Photo after John Mosel's MS Thesis defense. Faculty committee (Imhoff and Mijic) and fellow graduate students.
 
 <img src="/images/mosel_ms_defense.jpg" width="600" >
