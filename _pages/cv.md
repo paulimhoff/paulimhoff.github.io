@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](pti_cv_1-12-2024.pdf)
+* [CV in PDF](pti_cv_2-8-2026.pdf)
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 
 Research Areas
 ====
-* Biochar applications for stormwater management
+* Biochar applications for stormwater management in soils and green stormwater infrastructure
 * Measurement and modeling of fugitive greenhouse gas emissions from landfills
-* Groundwater and soil remediation
-* Advancing breathable membrane toilets for urban areas in developing countries
+* Assessing impact of climate change on water infrastructure in coastal settings
+
