@@ -4,12 +4,13 @@ permalink: /news/
 author_profile: true
 ---
 
-* Spring 2024
-1. WHYY [news aticle](https://whyy.org/articles/university-of-delaware-methane-gas-landfills-research-epa/) on University of Delaware EPA STAR grant
+* Spring 2026
+1. MS Student Tawsif Raaz received the Department of Civil, Construction, and Environmental Engineering's Graduate Research Award!
 
-* Fall 2023
-1. PhD student Jason Geiger awarded a two-year [DENIN fellowsip](https://www.denin.udel.edu/2023/10/03/jason-geiger-new-denin-fellow-is-developing-technology-to-remediate-oil-and-natural-gas-brine-spills/).
-2. University of Delaware (and collaborators at UC Berkeley and UC Davis) receive $1 million [EPA STAR grant to Quantify and Mitigate Emissions from Municipal Solid Waste Landfills](https://www.epa.gov/newsreleases/epa-awards-46m-research-grants-quantify-and-mitigate-emissions-municipal-solid-waste).
+* Fall 2025
+1. MS student Tawsif Raaz awarded a one-year [Environmental Research and Education fellowship](https://erefdn.org/scholars/?_paged=2) for his work studying "Methane Emissions from Different Landfill Covers and Their Impact on Whole Landfill Emissions Estimates."
+2. Team from the University of Southampton, Technische Universiteit Delft (TUDelft, Netherlands), Technische Universität Braunschweig (Germany), and the University of Delaware present work on "Gas Tracer Tests to Identify Spatial Distribution of Air Flow Throughout a Landfill Under In Situ Aeration" at SARDINIA 2025 (https://www.sardiniasymposium.it/).
+3. Paul Imhoff served as co-covener of the session [Showcasing Methodologies and Datasets for Tracking Greenhouse Gas Emissions: A Dialogue Between Fields](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261842) at the American Geophysical Union Annual Meeting.
 
 
 
