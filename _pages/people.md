@@ -30,7 +30,7 @@ Current students and research staff working with me at the University of Delawar
 
 
 ## Recent Photos
-(Below) Celebrating Undergraduate Senior Thesis students and MS Thesis students who completed their theses in fall 2025/spring 2026 - Chelsea, Kayla, Kyle, John and Taswif.
+(Below) Celebrating Undergraduate Senior Thesis students and MS Thesis students who completed their theses in fall 2025/spring 2026 - Chelsea, Kayla, Kyle, John, Tawsif, and me (left-to-right).
 
 <img src="/images/theses_students_spring_2026.jpg" width="600" > 
 
